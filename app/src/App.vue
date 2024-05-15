@@ -3,7 +3,7 @@ import type { Header, Item } from 'vue3-easy-data-table'
 import { computed } from 'vue'
 import dayjs from 'dayjs'
 
-import data from '../../vuedapp-gg20-3.json'
+import data from '../../vuedapp-gg20-4.json'
 
 function shortenAddress(address: string): string {
 	if (!address) return ''
@@ -15,6 +15,7 @@ const headers: Header[] = [
 	{ text: 'Transaction', value: 'hash', width: 120 },
 	{ text: 'Donor', value: 'donor', width: 120 },
 	{ text: 'ENS Name', value: 'donor_ens', width: 200 },
+	{ text: 'Score', value: 'score', width: 70 },
 	{ text: 'USD Value at Time', value: 'usd_value_at_time', width: 150 },
 	{ text: 'Token', value: 'token', width: 70 },
 	{ text: 'Value', value: 'value' },
