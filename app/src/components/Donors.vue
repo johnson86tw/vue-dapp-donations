@@ -98,10 +98,11 @@ const crowdfunding = computed(() => {
 					<div>Value >=</div>
 					<n-input-number
 						:disabled="!hasValueFilter"
-						class="w-[80px]"
+						class="w-[80px] text-center"
 						v-model:value="valueLargerEqualThan"
 						size="tiny"
 						button-placement="both"
+						:min="0"
 					/>
 				</div>
 
@@ -111,10 +112,11 @@ const crowdfunding = computed(() => {
 					<div>Score >=</div>
 					<n-input-number
 						:disabled="!hasScoreFilter"
-						class="w-[80px]"
+						class="w-[80px] text-center"
 						v-model:value="scoreLargerEqualThan"
 						size="tiny"
 						button-placement="both"
+						:min="0"
 					/>
 				</div>
 			</div>
