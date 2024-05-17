@@ -1,28 +1,38 @@
 <script setup lang="ts">
 import { NButton, NButtonGroup } from 'naive-ui'
-import { useRouter } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 
 const router = useRouter()
+const route = useRoute()
 </script>
 
 <template>
-	<div class="flex flex-col items-center">
-		<div class="w-full">
-			<div class="p-5 text-center">
-				<h1 class="text-center text-3xl">Vue Dapp GG20 Donations</h1>
-			</div>
+	<div>
+		<div class="p-5 text-center">
+			<h1 class="text-center text-3xl">Vue Dapp GG20 Results</h1>
+		</div>
 
-			<div class="px-5 flex justify-center">
-				<n-button-group>
-					<n-button round @click="router.push('/')">Donors</n-button>
-					<n-button round @click="router.push('/donations')">Donations </n-button>
+		<div class="px-5 flex justify-center">
+			<n-button-group>
+				<n-button round @click="router.push('/')" :type="route.path === '/' ? 'primary' : undefined">
+					Donors
+				</n-button>
 
-					<!-- <n-button round>
+				<n-button
+					round
+					@click="router.push('/donations')"
+					:type="route.path === '/donations' ? 'primary' : undefined"
+				>
+					Donations
+				</n-button>
+
+				<!-- <n-button round>
 					<RouterLink to="/matching-funds">Matching Funds</RouterLink>
 				</n-button> -->
-				</n-button-group>
-			</div>
+			</n-button-group>
+		</div>
 
+		<div class="">
 			<RouterView />
 		</div>
 	</div>

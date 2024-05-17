@@ -1,12 +1,21 @@
 <script lang="ts" setup>
 import type { Header, Item } from 'vue3-easy-data-table'
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { shortenAddress } from '@/utils'
-import { NRow, NCol, NStatistic } from 'naive-ui'
+import { NStatistic, NSwitch, NInputNumber } from 'naive-ui'
 
 import data from '../../../vuedapp-gg20-5.json'
 
+const rowsPerPage = data.length // to show all rows
+
+const valueLargerEqualThan = ref<number>(1)
+const hasValueFilter = ref<boolean>(true)
+
+const scoreLargerEqualThan = ref<number>(1)
+const hasScoreFilter = ref<boolean>(true)
+
 const headers: Header[] = [
+	{ text: '#', value: 'index', width: 20 },
 	{ text: 'Donor', value: 'donor', width: 120 },
 	{ text: 'ENS Name', value: 'donor_ens', width: 200 },
 	{ text: 'Score', value: 'score', width: 70 },
@@ -20,13 +29,30 @@ const headers: Header[] = [
 })
 
 const items = computed<Item[]>(() => {
-	return data.map((item: any) => {
+	let res = data.map((item: any) => {
 		return {
 			...item,
+			index: data.indexOf(item) + 1,
 			score: Number(item.score),
 		}
 	})
+
+	if (hasValueFilter.value) {
+		res = res.filter(item => item.total_usd_value_at_time >= valueLargerEqualThan.value)
+	}
+
+	if (hasScoreFilter.value) {
+		res = res.filter(item => item.score >= scoreLargerEqualThan.value)
+	}
+
+	return res
 })
+
+const totalCrowdfunding = computed(() => {
+	return data.reduce((acc, item) => acc + item.total_usd_value_at_time, 0).toFixed(0)
+})
+
+const totalDonors = computed(() => data.length)
 
 const crowdfunding = computed(() => {
 	return items.value.reduce((acc, item) => acc + item.total_usd_value_at_time, 0).toFixed(0)
@@ -34,47 +60,86 @@ const crowdfunding = computed(() => {
 </script>
 
 <template>
-	<div class="flex flex-col items-center">
-		<div class="max-w-[1200px]">
-			<div class="p-5">
-				<n-row>
-					<n-col :span="5">
-						<n-statistic label="Crowdfunding">
-							<div>${{ crowdfunding }}</div>
-						</n-statistic>
-					</n-col>
-					<n-col :span="5">
-						<n-statistic label="Donors">
-							{{ items.length }}
-						</n-statistic>
-					</n-col>
-				</n-row>
+	<div>
+		<!-- Statistic & Filter -->
+		<div class="p-5 flex flex-row justify-between gap-5 flex-wrap">
+			<!-- Statistic -->
+			<div class="flex gap-5 flex-wrap">
+				<div>
+					<n-statistic label="Total Crowdfunding">
+						<div>${{ totalCrowdfunding }}</div>
+					</n-statistic>
+				</div>
+
+				<div>
+					<n-statistic label="Total Donors">
+						{{ totalDonors }}
+					</n-statistic>
+				</div>
+
+				<div>
+					<n-statistic label="Filtered Crowdfunding">
+						<div>${{ crowdfunding }}</div>
+					</n-statistic>
+				</div>
+
+				<div>
+					<n-statistic label="Filtered Donors">
+						{{ items.length }}
+					</n-statistic>
+				</div>
 			</div>
 
-			<EasyDataTable
-				class="m-5 mt-0 flex flex-col h-full"
-				:headers="headers"
-				:items="items"
-				:rows-per-page="items.length"
-				show-index
-				hide-rows-per-page
-				hide-footer
-				alternating
-			>
-				<template #item-donor="{ donor }">
-					<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">{{
-						shortenAddress(donor)
-					}}</a>
-				</template>
+			<!-- Filters -->
+			<div class="flex flex-col gap-2">
+				<!-- Value Filter -->
+				<div class="flex gap-2">
+					<n-switch v-model:value="hasValueFilter" />
+					<div>Value is >=</div>
+					<n-input-number
+						:disabled="!hasValueFilter"
+						class="w-[80px]"
+						v-model:value="valueLargerEqualThan"
+						size="tiny"
+					/>
+				</div>
 
-				<template #item-donor_ens="{ donor_ens }">
-					<a :href="`https://${donor_ens}.xyz/`" target="_blank">{{ donor_ens }}</a>
-				</template>
-
-				<template #item-total_usd_value_at_time="{ total_usd_value_at_time }">
-					<div>${{ total_usd_value_at_time }}</div>
-				</template>
-			</EasyDataTable>
+				<!-- Score Filter -->
+				<div class="flex gap-2">
+					<n-switch v-model:value="hasScoreFilter" />
+					<div>Score is >=</div>
+					<n-input-number
+						:disabled="!hasScoreFilter"
+						class="w-[80px]"
+						v-model:value="scoreLargerEqualThan"
+						size="tiny"
+					/>
+				</div>
+			</div>
 		</div>
+
+		<EasyDataTable
+			class="m-5 mt-0 flex flex-col h-full"
+			:headers="headers"
+			:items="items"
+			:rows-per-page="rowsPerPage"
+			hide-rows-per-page
+			hide-footer
+			alternating
+		>
+			<template #item-donor="{ donor }">
+				<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">{{
+					shortenAddress(donor)
+				}}</a>
+			</template>
+
+			<template #item-donor_ens="{ donor_ens }">
+				<a :href="`https://${donor_ens}.xyz/`" target="_blank">{{ donor_ens }}</a>
+			</template>
+
+			<template #item-total_usd_value_at_time="{ total_usd_value_at_time }">
+				<div>${{ total_usd_value_at_time }}</div>
+			</template>
+		</EasyDataTable>
 	</div>
 </template>

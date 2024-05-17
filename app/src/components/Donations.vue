@@ -6,6 +6,8 @@ import { NRow, NCol, NStatistic } from 'naive-ui'
 
 import data from '../../../vuedapp-gg20-4.json'
 
+const rowsPerPage = data.length // to show all rows
+
 function shortenAddress(address: string): string {
 	if (!address) return ''
 	return `${address.slice(0, 6)}...${address.slice(-4)}`
@@ -38,47 +40,41 @@ const items = computed<Item[]>(() => {
 </script>
 
 <template>
-	<div class="flex flex-col items-center">
-		<div class="max-w-[1200px]">
-			<div class="p-5">
-				<n-row>
-					<n-col :span="5">
-						<n-statistic label="Total donations">
-							{{ items.length }}
-						</n-statistic>
-					</n-col>
-				</n-row>
+	<div>
+		<div class="p-5">
+			<div class="flex justify-center text-center">
+				<n-statistic label="Total donations">
+					{{ items.length }}
+				</n-statistic>
 			</div>
-
-			<EasyDataTable
-				class="m-5 mt-0 flex flex-col h-full"
-				:headers="headers"
-				:items="items"
-				:rows-per-page="items.length"
-				sort-by="usd_value_at_time"
-				sort-type="desc"
-				hide-rows-per-page
-				hide-footer
-				alternating
-			>
-				<template #item-date="{ date }">
-					<p>{{ date }}</p>
-				</template>
-
-				<template #item-hash="{ hash }">
-					<a :href="`https://arbiscan.io/tx/${hash}`" target="_blank">{{ shortenAddress(hash) }}</a>
-				</template>
-
-				<template #item-donor="{ donor }">
-					<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">{{
-						shortenAddress(donor)
-					}}</a>
-				</template>
-
-				<template #item-donor_ens="{ donor_ens }">
-					<a :href="`https://${donor_ens}.xyz/`" target="_blank">{{ donor_ens }}</a>
-				</template>
-			</EasyDataTable>
 		</div>
+
+		<EasyDataTable
+			class="m-5 mt-0 flex flex-col h-full"
+			:headers="headers"
+			:items="items"
+			:rows-per-page="rowsPerPage"
+			hide-rows-per-page
+			hide-footer
+			alternating
+		>
+			<template #item-date="{ date }">
+				<p>{{ date }}</p>
+			</template>
+
+			<template #item-hash="{ hash }">
+				<a :href="`https://arbiscan.io/tx/${hash}`" target="_blank">{{ shortenAddress(hash) }}</a>
+			</template>
+
+			<template #item-donor="{ donor }">
+				<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">{{
+					shortenAddress(donor)
+				}}</a>
+			</template>
+
+			<template #item-donor_ens="{ donor_ens }">
+				<a :href="`https://${donor_ens}.xyz/`" target="_blank">{{ donor_ens }}</a>
+			</template>
+		</EasyDataTable>
 	</div>
 </template>
