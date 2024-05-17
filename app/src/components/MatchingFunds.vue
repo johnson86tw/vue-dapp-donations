@@ -45,8 +45,12 @@ const rankingOfMatchingFunds = computed(() => {
 	return indexOf
 })
 
-const uniqueVoter = computed(() => {
-	return data.find(item => item.project === 'Vue Dapp')?.unique_voters
+const rankingOfUniqueVoters = computed(() => {
+	const sortedData = data.map((item, index) => ({ ...item, index })).sort((a, b) => b.unique_voters - a.unique_voters)
+
+	const indexOf = sortedData.findIndex(item => item.project === 'Vue Dapp') + 1
+
+	return indexOf
 })
 
 const rankingOfMatchingPerVoter = computed(() => {
@@ -87,6 +91,12 @@ const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumbe
 			<div>
 				<n-statistic label="Ranking of Matching Funds">
 					<div>{{ rankingOfMatchingFunds }}</div>
+				</n-statistic>
+			</div>
+
+			<div>
+				<n-statistic label="Ranking of Unique Voters">
+					{{ rankingOfUniqueVoters }}
 				</n-statistic>
 			</div>
 
