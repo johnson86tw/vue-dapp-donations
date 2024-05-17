@@ -5,9 +5,10 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
-		"build": "vue-tsc && vite build",
+		"build": "vite build",
 		"preview": "vite preview",
-		"format": "prettier --write \"**/*.{vue,ts,js,json}\""
+		"format": "prettier --write \"**/*.{vue,ts,js,json}\"",
+		"typecheck": "vue-tsc"
 	},
 	"dependencies": {
 		"@vicons/ionicons4": "^0.12.0",

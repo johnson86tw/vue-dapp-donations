@@ -12,13 +12,19 @@ const route = useRoute()
 			<h1 class="text-center text-3xl">Vue Dapp GG20 Results</h1>
 		</div>
 
-		<div class="px-5 flex justify-center">
+		<div class="flex justify-center">
 			<n-button-group>
-				<n-button round @click="router.push('/')" :type="route.path === '/' ? 'primary' : undefined">
+				<n-button
+					class="sm:w-40"
+					round
+					@click="router.push('/')"
+					:type="route.path === '/' ? 'primary' : undefined"
+				>
 					Donors
 				</n-button>
 
 				<n-button
+					class="sm:w-40"
 					round
 					@click="router.push('/donations')"
 					:type="route.path === '/donations' ? 'primary' : undefined"
@@ -26,9 +32,14 @@ const route = useRoute()
 					Donations
 				</n-button>
 
-				<!-- <n-button round>
-					<RouterLink to="/matching-funds">Matching Funds</RouterLink>
-				</n-button> -->
+				<n-button
+					class="sm:w-40"
+					round
+					@click="router.push('/matching-funds')"
+					:type="route.path === '/matching-funds' ? 'primary' : undefined"
+				>
+					Matching Funds
+				</n-button>
 			</n-button-group>
 		</div>
 

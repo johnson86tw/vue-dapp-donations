@@ -3,15 +3,11 @@ import type { Header, Item } from 'vue3-easy-data-table'
 import { computed } from 'vue'
 import dayjs from 'dayjs'
 import { NStatistic } from 'naive-ui'
+import { shortenAddress } from '@/utils'
 
 import data from '../../../vuedapp-gg20-4.json'
 
 const rowsPerPage = data.length // to show all rows
-
-function shortenAddress(address: string): string {
-	if (!address) return ''
-	return `${address.slice(0, 6)}...${address.slice(-4)}`
-}
 
 const headers: Header[] = [
 	{ text: '#', value: 'index', width: 20 },
@@ -76,6 +72,10 @@ const items = computed<Item[]>(() => {
 
 			<template #item-donor_ens="{ donor_ens }">
 				<a :href="`https://${donor_ens}.xyz/`" target="_blank">{{ donor_ens }}</a>
+			</template>
+
+			<template #item-usd_value_at_time="{ usd_value_at_time }">
+				<div>${{ usd_value_at_time }}</div>
 			</template>
 		</EasyDataTable>
 	</div>
