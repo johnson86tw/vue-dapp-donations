@@ -32,7 +32,7 @@ const route = useRoute()
 			</n-button-group>
 		</div>
 
-		<div class="">
+		<div class="p-5">
 			<RouterView />
 		</div>
 	</div>

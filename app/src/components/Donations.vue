@@ -2,7 +2,7 @@
 import type { Header, Item } from 'vue3-easy-data-table'
 import { computed } from 'vue'
 import dayjs from 'dayjs'
-import { NRow, NCol, NStatistic } from 'naive-ui'
+import { NStatistic } from 'naive-ui'
 
 import data from '../../../vuedapp-gg20-4.json'
 
@@ -14,6 +14,7 @@ function shortenAddress(address: string): string {
 }
 
 const headers: Header[] = [
+	{ text: '#', value: 'index', width: 20 },
 	{ text: 'Date', value: 'date', width: 150 },
 	{ text: 'Transaction', value: 'hash', width: 120 },
 	{ text: 'Donor', value: 'donor', width: 120 },
@@ -33,6 +34,7 @@ const items = computed<Item[]>(() => {
 	return data.map((item: any) => {
 		return {
 			...item,
+			index: data.indexOf(item) + 1,
 			date: dayjs(item.timestamp).format('YYYY-MM-DD HH:mm'),
 		}
 	})
@@ -40,7 +42,8 @@ const items = computed<Item[]>(() => {
 </script>
 
 <template>
-	<div>
+	<div class="mx-auto max-w-[1100px]">
+		<!-- Statistic -->
 		<div class="p-5">
 			<div class="flex justify-center text-center">
 				<n-statistic label="Total donations">
@@ -50,7 +53,6 @@ const items = computed<Item[]>(() => {
 		</div>
 
 		<EasyDataTable
-			class="m-5 mt-0 flex flex-col h-full"
 			:headers="headers"
 			:items="items"
 			:rows-per-page="rowsPerPage"

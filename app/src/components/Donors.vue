@@ -60,9 +60,9 @@ const crowdfunding = computed(() => {
 </script>
 
 <template>
-	<div>
+	<div class="mx-auto max-w-[800px]">
 		<!-- Statistic & Filter -->
-		<div class="p-5 flex flex-row justify-between gap-5 flex-wrap">
+		<div class="py-5 flex flex-row justify-between gap-5 flex-wrap">
 			<!-- Statistic -->
 			<div class="flex gap-5 flex-wrap">
 				<div>
@@ -95,7 +95,7 @@ const crowdfunding = computed(() => {
 				<!-- Value Filter -->
 				<div class="flex gap-2">
 					<n-switch v-model:value="hasValueFilter" />
-					<div>Value is >=</div>
+					<div>Value >=</div>
 					<n-input-number
 						:disabled="!hasValueFilter"
 						class="w-[80px]"
@@ -107,7 +107,7 @@ const crowdfunding = computed(() => {
 				<!-- Score Filter -->
 				<div class="flex gap-2">
 					<n-switch v-model:value="hasScoreFilter" />
-					<div>Score is >=</div>
+					<div>Score >=</div>
 					<n-input-number
 						:disabled="!hasScoreFilter"
 						class="w-[80px]"
@@ -119,7 +119,6 @@ const crowdfunding = computed(() => {
 		</div>
 
 		<EasyDataTable
-			class="m-5 mt-0 flex flex-col h-full"
 			:headers="headers"
 			:items="items"
 			:rows-per-page="rowsPerPage"
@@ -128,9 +127,9 @@ const crowdfunding = computed(() => {
 			alternating
 		>
 			<template #item-donor="{ donor }">
-				<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">{{
-					shortenAddress(donor)
-				}}</a>
+				<a :href="`https://ggwrapped.gitcoin.co/?address=${donor}`" target="_blank">
+					{{ shortenAddress(donor) }}
+				</a>
 			</template>
 
 			<template #item-donor_ens="{ donor_ens }">
