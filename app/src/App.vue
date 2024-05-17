@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { NButton, NButtonGroup } from 'naive-ui'
+import { useRouter } from 'vue-router'
+
+const router = useRouter()
 </script>
 
 <template>
@@ -11,12 +14,9 @@ import { NButton, NButtonGroup } from 'naive-ui'
 
 			<div class="px-5 flex justify-center">
 				<n-button-group>
-					<n-button round>
-						<RouterLink to="/">Donors</RouterLink>
-					</n-button>
-					<n-button round>
-						<RouterLink to="/donations">Donations</RouterLink>
-					</n-button>
+					<n-button round @click="router.push('/')">Donors</n-button>
+					<n-button round @click="router.push('/donations')">Donations </n-button>
+
 					<!-- <n-button round>
 					<RouterLink to="/matching-funds">Matching Funds</RouterLink>
 				</n-button> -->
