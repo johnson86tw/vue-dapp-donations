@@ -35,6 +35,14 @@ const totalMatchingFunds = computed(() => {
 	return Number(data.reduce((acc, item) => acc + item.matching_funds, 0).toFixed(0)).toLocaleString()
 })
 
+const rankingOfCrowdfunding = computed(() => {
+	const sortedData = data.map((item, index) => ({ ...item, index })).sort((a, b) => b.crowdfunding - a.crowdfunding)
+
+	const indexOf = sortedData.findIndex(item => item.project === 'Vue Dapp') + 1
+
+	return indexOf
+})
+
 const rankingOfMatchingFunds = computed(() => {
 	const sortedData = data
 		.map((item, index) => ({ ...item, index }))
@@ -74,36 +82,45 @@ const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumbe
 <template>
 	<div class="mx-auto max-w-[1000px]">
 		<!-- Statistic -->
+		<div class="flex flex-col items-center">
+			<div class="py-5 flex gap-5">
+				<div class="flex justify-center text-center">
+					<n-statistic label="Total Projects">
+						<div>{{ items.length }}</div>
+					</n-statistic>
+				</div>
 
-		<div class="py-5 flex gap-5 flex-wrap">
-			<div>
-				<n-statistic label="Total Projects">
-					<div>${{ items.length }}</div>
-				</n-statistic>
+				<div class="flex justify-center text-center">
+					<n-statistic label="Total Matching Funds">
+						<div>${{ totalMatchingFunds }}</div>
+					</n-statistic>
+				</div>
 			</div>
 
-			<div>
-				<n-statistic label="Total Matching Funds">
-					<div>${{ totalMatchingFunds }}</div>
-				</n-statistic>
-			</div>
+			<div class="py-5 flex justify-center gap-5 flex-wrap">
+				<div class="flex justify-center text-center">
+					<n-statistic label="Ranking of Matching Funds">
+						<div>{{ rankingOfMatchingFunds }}</div>
+					</n-statistic>
+				</div>
 
-			<div>
-				<n-statistic label="Ranking of Matching Funds">
-					<div>{{ rankingOfMatchingFunds }}</div>
-				</n-statistic>
-			</div>
+				<div class="flex justify-center text-center">
+					<n-statistic label="Ranking of Crowdfunding">
+						<div>{{ rankingOfCrowdfunding }}</div>
+					</n-statistic>
+				</div>
 
-			<div>
-				<n-statistic label="Ranking of Unique Voters">
-					{{ rankingOfUniqueVoters }}
-				</n-statistic>
-			</div>
+				<div class="flex justify-center text-center">
+					<n-statistic label="Ranking of Unique Voters">
+						{{ rankingOfUniqueVoters }}
+					</n-statistic>
+				</div>
 
-			<div>
-				<n-statistic label="Ranking of Matching Per Voter">
-					{{ rankingOfMatchingPerVoter }}
-				</n-statistic>
+				<div class="flex justify-center text-center">
+					<n-statistic label="Ranking of Matching Per Voter">
+						{{ rankingOfMatchingPerVoter }}
+					</n-statistic>
+				</div>
 			</div>
 		</div>
 

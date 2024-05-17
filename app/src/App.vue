@@ -8,9 +8,10 @@ const route = useRoute()
 
 <template>
 	<div>
-		<div class="p-5 text-center">
+		<div class="p-5 text-center flex justify-between items-center">
+			<div></div>
 			<h1 class="text-center text-xl sm:text-3xl">Vue Dapp GG20 Results</h1>
-			<div class="w-5 h-5 sm:w-7 sm:h-7 absolute right-5 top-5">
+			<div class="w-5 h-5 sm:w-7 sm:h-7">
 				<a
 					class="text-black hover:text-blue-500"
 					href="https://github.com/johnson86tw/vue-dapp-donations"

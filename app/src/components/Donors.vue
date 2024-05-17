@@ -66,26 +66,26 @@ const crowdfunding = computed(() => {
 			<!-- Statistic -->
 			<div class="flex gap-5 flex-wrap">
 				<div>
-					<n-statistic label="Total Crowdfunding">
-						<div>${{ totalCrowdfunding }}</div>
-					</n-statistic>
-				</div>
-
-				<div>
 					<n-statistic label="Total Donors">
 						{{ totalDonors }}
 					</n-statistic>
 				</div>
 
 				<div>
-					<n-statistic label="Filtered Crowdfunding">
-						<div>${{ crowdfunding }}</div>
+					<n-statistic label="Total Crowdfunding">
+						<div>${{ totalCrowdfunding }}</div>
 					</n-statistic>
 				</div>
 
 				<div>
 					<n-statistic label="Filtered Donors">
 						{{ items.length }}
+					</n-statistic>
+				</div>
+
+				<div>
+					<n-statistic label="Filtered Crowdfunding">
+						<div>${{ crowdfunding }}</div>
 					</n-statistic>
 				</div>
 			</div>
@@ -101,6 +101,7 @@ const crowdfunding = computed(() => {
 						class="w-[80px]"
 						v-model:value="valueLargerEqualThan"
 						size="tiny"
+						button-placement="both"
 					/>
 				</div>
 
@@ -113,6 +114,7 @@ const crowdfunding = computed(() => {
 						class="w-[80px]"
 						v-model:value="scoreLargerEqualThan"
 						size="tiny"
+						button-placement="both"
 					/>
 				</div>
 			</div>
