@@ -1,0 +1,4783 @@
+[
+	{
+		"donor": "0x6e918810C3b2cD2d0D979a2dEA2FB012de0f6D12",
+		"total_usd_value_at_time": 100.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xb29050965A5AC70ab487aa47546cdCBc97dAE45D",
+		"total_usd_value_at_time": 50.0,
+		"donation_count": 1,
+		"donor_ens": "tempetechie.eth",
+		"score": "14.650"
+	},
+	{
+		"donor": "0xF37e53Bbb3acB6aC26c12aEAA852dA97dAbb1A1d",
+		"total_usd_value_at_time": 15.0,
+		"donation_count": 1,
+		"donor_ens": "knoxx369.eth",
+		"score": "21.165"
+	},
+	{
+		"donor": "0x69EEae3A39d5365A93081A3D95eE473Ba317Ad81",
+		"total_usd_value_at_time": 12.2,
+		"donation_count": 2,
+		"donor_ens": "akharito.eth",
+		"score": "6.854"
+	},
+	{
+		"donor": "0xA069F2204CAB4862c861925AD40b113D158A5E2F",
+		"total_usd_value_at_time": 10.9,
+		"donation_count": 1,
+		"donor_ens": "cybpark.eth",
+		"score": "36.196"
+	},
+	{
+		"donor": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
+		"total_usd_value_at_time": 10.8,
+		"donation_count": 1,
+		"donor_ens": "johnson86tw.eth",
+		"score": "26.402"
+	},
+	{
+		"donor": "0x60FD08ffac8d18A602bcd4b479E137e802053a18",
+		"total_usd_value_at_time": 10.4,
+		"donation_count": 1,
+		"donor_ens": "berni0.eth",
+		"score": "35.423"
+	},
+	{
+		"donor": "0xF69c4bD64799e7e21829F15BE99AdEe089a8D1C9",
+		"total_usd_value_at_time": 10.0,
+		"donation_count": 1,
+		"donor_ens": "vladimirec.eth",
+		"score": "20.826"
+	},
+	{
+		"donor": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+		"total_usd_value_at_time": 10.0,
+		"donation_count": 1,
+		"donor_ens": "ricmoo.firefly.eth",
+		"score": "16.058"
+	},
+	{
+		"donor": "0x2531Dac8784CC16b0F1047C5FB97A4a629c44566",
+		"total_usd_value_at_time": 6.1,
+		"donation_count": 1,
+		"donor_ens": "shibun.eth",
+		"score": "23.282"
+	},
+	{
+		"donor": "0xf824178B930B8bD99FAb6668f12b86932349eDfe",
+		"total_usd_value_at_time": 5.2,
+		"donation_count": 1,
+		"donor_ens": "apmaj.eth",
+		"score": "33.249"
+	},
+	{
+		"donor": "0x6d1AfE57141Eaf3e99D0A49e6563409BafF240d0",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "qttyaya.eth",
+		"score": "7.389"
+	},
+	{
+		"donor": "0xB335Bee51Cb875C4b5275211C64Eed7267E54Da1",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "33.149"
+	},
+	{
+		"donor": "0x0d8C9068fdb707Da13C308F3e8DCE2228b6d3f18",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "praveen2753.eth",
+		"score": "21.351"
+	},
+	{
+		"donor": "0xa0063b18c9F31FB754993671f40A727F2C394F5D",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "400cm.eth",
+		"score": "58.870"
+	},
+	{
+		"donor": "0xd9390b46a1749DEe5325A490490491db9a826D1F",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "doyose.eth",
+		"score": "26.576"
+	},
+	{
+		"donor": "0x629F9eC91D4Ad110A92590E19e73279Da19669b1",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "jjamess500.eth",
+		"score": "8.119"
+	},
+	{
+		"donor": "0xBf207EA5de7D210DB9F70Baf7c79Bb8c6c36666c",
+		"total_usd_value_at_time": 5.0,
+		"donation_count": 1,
+		"donor_ens": "thinget.eth",
+		"score": "8.430"
+	},
+	{
+		"donor": "0xB7A16089D8B7bD5b209E7E182ACD7ebEB4b0dc4e",
+		"total_usd_value_at_time": 4.7,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "49.930"
+	},
+	{
+		"donor": "0x8A1A3b377983A59aD4961311928cF86e9fa3A5dA",
+		"total_usd_value_at_time": 4.6,
+		"donation_count": 1,
+		"donor_ens": "dirtdoc.eth",
+		"score": "6.960"
+	},
+	{
+		"donor": "0x7c506B47fF26E0B512B30C9f5a02A537418c04Ff",
+		"total_usd_value_at_time": 4.4,
+		"donation_count": 2,
+		"donor_ens": "technova.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x8D46e0C5514161465a1B3b796C4E1cA186581b98",
+		"total_usd_value_at_time": 4.3,
+		"donation_count": 1,
+		"donor_ens": "matic598.eth",
+		"score": "22.480"
+	},
+	{
+		"donor": "0xc02836da7e0183BAC6d08cA1Bd9D7fdC2E031634",
+		"total_usd_value_at_time": 4.2,
+		"donation_count": 1,
+		"donor_ens": "matesak.eth",
+		"score": "14.792"
+	},
+	{
+		"donor": "0x118E80b5331AFc26B232d33d1BA3e992cDF52598",
+		"total_usd_value_at_time": 4.1,
+		"donation_count": 1,
+		"donor_ens": "ganesh3064.eth",
+		"score": "26.738"
+	},
+	{
+		"donor": "0xaCA281A4E4cB60e682F22f26e3cc4fDdBc241561",
+		"total_usd_value_at_time": 4.0,
+		"donation_count": 2,
+		"donor_ens": "gekogo.eth",
+		"score": "30.190"
+	},
+	{
+		"donor": "0x299776620339EA8d5a4aAA2597Fcf75481ADA0Af",
+		"total_usd_value_at_time": 4.0,
+		"donation_count": 1,
+		"donor_ens": "manaudou.eth",
+		"score": "8.418"
+	},
+	{
+		"donor": "0x624F4F15361A945E0A5afE71e5E0C0D364bbDa7B",
+		"total_usd_value_at_time": 4.0,
+		"donation_count": 1,
+		"donor_ens": "risosimo.eth",
+		"score": "36.604"
+	},
+	{
+		"donor": "0xCEec5b68C0C241B4E97780F1C0A301F04a14F48F",
+		"total_usd_value_at_time": 3.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "28.587"
+	},
+	{
+		"donor": "0x4540B8B6a2114FA4b9e9c5CA6bcb8351ecb119A8",
+		"total_usd_value_at_time": 3.4,
+		"donation_count": 3,
+		"donor_ens": "demonspace.eth",
+		"score": "25.908"
+	},
+	{
+		"donor": "0x51A6A8945d9AF5cEC4720Fa4a866FbdEdfC9Fb6A",
+		"total_usd_value_at_time": 3.4,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "5.230"
+	},
+	{
+		"donor": "0xe679D21696F2D833e1d92cF44F88A78e796756a3",
+		"total_usd_value_at_time": 3.3,
+		"donation_count": 1,
+		"donor_ens": "amir0.eth",
+		"score": "51.221"
+	},
+	{
+		"donor": "0x33E8AC8209E69d45eBAc03034EC349f8d2Ff6284",
+		"total_usd_value_at_time": 3.3,
+		"donation_count": 1,
+		"donor_ens": "reeyuk.eth",
+		"score": "31.327"
+	},
+	{
+		"donor": "0x2df292AF809Fd693D94C7D17E36BE352e15Bb98a",
+		"total_usd_value_at_time": 3.3,
+		"donation_count": 1,
+		"donor_ens": "jangra.eth",
+		"score": "37.520"
+	},
+	{
+		"donor": "0xAbF5416CAAA4734697986e0440bd37c3f68D72a3",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "rossouwcapital.eth",
+		"score": "33.671"
+	},
+	{
+		"donor": "0x71f05A99e85c7FfB236c21e41e8324f8c733bB38",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "smackingjack.eth",
+		"score": "21.580"
+	},
+	{
+		"donor": "0x53CeA486bBD310B251B7B8A3CCB618199879fEaE",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "raktim135.eth",
+		"score": "56.327"
+	},
+	{
+		"donor": "0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "mihaicc.eth",
+		"score": "25.877"
+	},
+	{
+		"donor": "0xE4DDCC1996B326e2Bb5BD364237fd12e9d713201",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "sondvptit.eth",
+		"score": "29.497"
+	},
+	{
+		"donor": "0x4D2Cf27A6eac9626986329730Dcce8D9F927Dbd7",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "epicerclik.eth",
+		"score": "20.263"
+	},
+	{
+		"donor": "0x6aca843DD19AE4bfA43b6C53fC2e0c3a0bF6a002",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": "53.875"
+	},
+	{
+		"donor": "0xDE2cA70e71829962A99A2552D826ac37e51882E7",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "playnwin.eth",
+		"score": "32.287"
+	},
+	{
+		"donor": "0x4eb7E921393c3DeBAced3378bb458cdCF9f1AC15",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "hoaanhchi.eth",
+		"score": "27.916"
+	},
+	{
+		"donor": "0x41f6e1e20A600F1EB97fD5544b2b134Dd5d9FC29",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "tasneem786.eth",
+		"score": "36.141"
+	},
+	{
+		"donor": "0x0d4dc70a006Daad7cBf8cAe3379D100145d2aAd3",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 2,
+		"donor_ens": "lanfree.eth",
+		"score": "45.592"
+	},
+	{
+		"donor": "0x319C69552d726E7Bc33dD2342F9d7809e950F02D",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "kryta.eth",
+		"score": "30.174"
+	},
+	{
+		"donor": "0x00De4B13153673BCAE2616b67bf822500d325Fc3",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "kev.eth",
+		"score": "45.864"
+	},
+	{
+		"donor": "0x8EAe81EdD2408C31Bd8fEf455D2BA4b5d951a131",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "vishnumr.eth",
+		"score": "34.946"
+	},
+	{
+		"donor": "0xc9F69b00aB541EaDA632e1dA19B71f0Bf82578B2",
+		"total_usd_value_at_time": 3.2,
+		"donation_count": 1,
+		"donor_ens": "0xnodes30.eth",
+		"score": "22.457"
+	},
+	{
+		"donor": "0x00bc203D37F6891965797F728119c38137f06D30",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "20.202"
+	},
+	{
+		"donor": "0x18387CFC316A2F89cF84D60D3D64Ea7e0A0FA64a",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "maniga.eth",
+		"score": "4.528"
+	},
+	{
+		"donor": "0x1e4a0df502C40464294FBf893bC70c500681D25C",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "gaming9uy.eth",
+		"score": "27.359"
+	},
+	{
+		"donor": "0xbD0F43868181d1C399FC7405fbc46725b2F7ab17",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "sarathkachi.eth",
+		"score": "34.303"
+	},
+	{
+		"donor": "0xcC4225fAB8636030dE8B96FfB79d90ca28686aC8",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "fardeensaqlain.eth",
+		"score": "42.270"
+	},
+	{
+		"donor": "0x2598d871253d77102842D85B8EbE7c534F94FC15",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "esovrucaffe.eth",
+		"score": "21.708"
+	},
+	{
+		"donor": "0x4CB11cc4Ce988B40a6C20E798904199519a665fa",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "nonghrin.eth",
+		"score": "20.298"
+	},
+	{
+		"donor": "0x25CC275CFE3Cce1700E816e00d4CD1f60872038A",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "pranjalbora.eth",
+		"score": "58.173"
+	},
+	{
+		"donor": "0x71cfAfC5F334527Fd65821C0CbA69F000ad14F07",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "exe123.eth",
+		"score": "21.588"
+	},
+	{
+		"donor": "0x41D5e53Daa30941c4D72b31BF8E96D7F6DE14B82",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "sulfu.eth",
+		"score": "4.540"
+	},
+	{
+		"donor": "0x854fa27ed1F361a4ce85aA8E9A67B64488A509a3",
+		"total_usd_value_at_time": 3.1,
+		"donation_count": 1,
+		"donor_ens": "fareed786.eth",
+		"score": "39.553"
+	},
+	{
+		"donor": "0x51169A54B355B0ea403F909Df911A9d83e4D01ca",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "dreamgallery.eth",
+		"score": "12.643"
+	},
+	{
+		"donor": "0x958D44Ba79D96Ce24aE358b321a3c0E76f149Ce5",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "2.161"
+	},
+	{
+		"donor": "0x8a66a7DAC0Ed54bc86EaA68419Ec3839747A7e9D",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "madamji.eth",
+		"score": "26.223"
+	},
+	{
+		"donor": "0xC7a2fC1454882d0bF0fF494BD5cab0DD4226bb1C",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "0x89898.eth",
+		"score": "23.233"
+	},
+	{
+		"donor": "0x9D5d07f665A21d3CCd728c8878F2f5F5aedd41DB",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "prochy268.eth",
+		"score": "20.263"
+	},
+	{
+		"donor": "0xE3F5Ebab783B3284120ADd823E99F07efA724742",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "mrmedison.eth",
+		"score": "27.350"
+	},
+	{
+		"donor": "0x69096890bb79E605f5B7E281915a812e629fEAf2",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 1,
+		"donor_ens": "pizzakingcat.eth",
+		"score": "33.190"
+	},
+	{
+		"donor": "0x146f2Aaa6e6B36Cdf8FAF037d2C50a00b38Be34d",
+		"total_usd_value_at_time": 3.0,
+		"donation_count": 2,
+		"donor_ens": "dobrosm.eth",
+		"score": "38.118"
+	},
+	{
+		"donor": "0xcaEcC0fde6f11537b11B75c6bFC7D24951824c40",
+		"total_usd_value_at_time": 2.9,
+		"donation_count": 1,
+		"donor_ens": "zkmainnetera.eth",
+		"score": "30.215"
+	},
+	{
+		"donor": "0x448433F2a375a71d16bbc72Ed30842d81659cFC1",
+		"total_usd_value_at_time": 2.9,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.033"
+	},
+	{
+		"donor": "0x0e51632B79ca39813111ea6a75f3c3ab4979fEa6",
+		"total_usd_value_at_time": 2.8,
+		"donation_count": 1,
+		"donor_ens": "eskeet.eth",
+		"score": "32.285"
+	},
+	{
+		"donor": "0xd5f2DE368439eED5527e88Ea52A7fd44758AEe99",
+		"total_usd_value_at_time": 2.6,
+		"donation_count": 1,
+		"donor_ens": "ram123.eth",
+		"score": "23.745"
+	},
+	{
+		"donor": "0x3a9a43FcE86165c96B885886DD1766aCa9d399fb",
+		"total_usd_value_at_time": 2.5,
+		"donation_count": 1,
+		"donor_ens": "0x13.eth",
+		"score": "22.921"
+	},
+	{
+		"donor": "0x55D82B654b71bD2dd2fF8975361379922f0E9B68",
+		"total_usd_value_at_time": 2.5,
+		"donation_count": 1,
+		"donor_ens": "aryo.eth",
+		"score": "15.040"
+	},
+	{
+		"donor": "0x161f940EC338096981De6B157ea5b3A4390258B5",
+		"total_usd_value_at_time": 2.5,
+		"donation_count": 1,
+		"donor_ens": "satworld222.eth",
+		"score": "21.341"
+	},
+	{
+		"donor": "0xb10f6264cb18baBF203De98DF4Bc3f3eCD616471",
+		"total_usd_value_at_time": 2.4,
+		"donation_count": 1,
+		"donor_ens": "drzcrypto22.eth",
+		"score": "22.310"
+	},
+	{
+		"donor": "0x2Fd0B9CFa8F7dAde3fE255ff79c6FE54c549bB1C",
+		"total_usd_value_at_time": 2.4,
+		"donation_count": 1,
+		"donor_ens": "vanad.eth",
+		"score": "4.540"
+	},
+	{
+		"donor": "0xeBD9BB8bb470051339a7F13AB6842397B9cD6254",
+		"total_usd_value_at_time": 2.4,
+		"donation_count": 1,
+		"donor_ens": "gorillabtc.eth",
+		"score": "30.375"
+	},
+	{
+		"donor": "0xd5461198DB5075CD3810D7433A3E481767fc8b25",
+		"total_usd_value_at_time": 2.4,
+		"donation_count": 1,
+		"donor_ens": "czelonvitalik.eth",
+		"score": "20.295"
+	},
+	{
+		"donor": "0xBFd35760DB7892403e00737E5A4c765405B32291",
+		"total_usd_value_at_time": 2.3,
+		"donation_count": 2,
+		"donor_ens": "feedtxt.eth",
+		"score": "11.634"
+	},
+	{
+		"donor": "0x76447E095Ff35dDeE21BADf711EEc5428051409A",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "novatus.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x4d62c6B68267D511F8a65cf6098E675D64aA0Eed",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "jojis.eth",
+		"score": "27.816"
+	},
+	{
+		"donor": "0x62565006b689fd71967A1ec9026b7B429d4Df6d5",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "barchiel.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xDA24aA83ef7c1DaAad3e40c8De2e4737908BF636",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "29.754"
+	},
+	{
+		"donor": "0xd2917b7de60F02274E429f2AB27877876d37abFf",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "bisnis.eth",
+		"score": "4.540"
+	},
+	{
+		"donor": "0xb4dC243925555f6A36E2509F10BB878276DD980F",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "4308888.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x9C97d2BA9CF2954445B3666F7D5791db7186D4F1",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "indocoinmarket.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x36C4327eB4aAfA69C3FfA10F014f5AecdF04bf77",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "ahlyegypt.eth",
+		"score": "31.173"
+	},
+	{
+		"donor": "0x384D600D124fA0E942b647fdC54586A159A2d321",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "raushancrypto.eth",
+		"score": "30.982"
+	},
+	{
+		"donor": "0xC66506E45Ef26C078c45230c08F64Ba2772ed4D7",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "advachiel.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x7b3230b25230Da7012126CB87cE00A8D7b69f341",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "aunthunt.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x029C5Aeea06C2bfE218C6C71Ca6b04f54996388F",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "hanael.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xAE04D81f83CD34Ab03F9e851428ff53b00db89DB",
+		"total_usd_value_at_time": 2.2,
+		"donation_count": 1,
+		"donor_ens": "4038888.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xEf38bc575da47Ed390B2a5E929Fc042E28b93561",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "mbacryptowala.eth",
+		"score": "26.487"
+	},
+	{
+		"donor": "0xfF5d437076788dc1B709F28e8d1794113ec2cb4C",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "4098888.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xf0715E517e7bC7c13E427Dc92c2524ef4733C314",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "vishalmegamart.eth",
+		"score": "23.425"
+	},
+	{
+		"donor": "0x2B70891209Cc41Aa3bb608c3F9c3d64C2d284269",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "chuchin.eth",
+		"score": "50.603"
+	},
+	{
+		"donor": "0x5f5944104192242992420c3f1291822b82800714",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "wdevil.eth",
+		"score": "33.720"
+	},
+	{
+		"donor": "0xD8d1099447fcC4cee04247d25b5427D5c64C6BB4",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "chandrayan.eth",
+		"score": "7.330"
+	},
+	{
+		"donor": "0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 2,
+		"donor_ens": "quasem.eth",
+		"score": "27.447"
+	},
+	{
+		"donor": "0x43260994621E508b5Ca41D74b606d4000A46838E",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "0xbhagat.eth",
+		"score": "20.074"
+	},
+	{
+		"donor": "0x4Fd2448459B2d1461242CA8330268e233D093b60",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "808011.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x66C546ACdC8249Dcb106Ab9d153C2bdb70C249b5",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "4078888.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0x0F4E4a5D1ec2924dfd292A63F281da4b04a70423",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "sajidkmtkmtkmt1990.eth",
+		"score": "32.073"
+	},
+	{
+		"donor": "0x2bC12061C8912505978472C21d4a23dB43AF62aA",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "puchki.eth",
+		"score": "46.517"
+	},
+	{
+		"donor": "0x9AF7f4AbFEF9EB9d1b3a8DdC0a34752baCA8f866",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "karnal.eth",
+		"score": "27.251"
+	},
+	{
+		"donor": "0x0D5fc3c5239a5AF4Eb5675cc9877e9f0c4225C19",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "nathbabu.eth",
+		"score": "25.837"
+	},
+	{
+		"donor": "0x5C46C9e4a60BCaf3e8448Eb723Cb9CE481783fc4",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "sajidkmtkmt1990.eth",
+		"score": "34.259"
+	},
+	{
+		"donor": "0x876EF6B0Bb42C9f28e71B0B2bA4E291EB9CcBaD5",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "78692786.eth",
+		"score": "33.275"
+	},
+	{
+		"donor": "0x408C84C59Fd8f6d5E93e0041F69e7A2C89636E6e",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "cryptoens23.eth",
+		"score": "26.298"
+	},
+	{
+		"donor": "0xcBe23436f6D92C53ac908209d6DE27DeC67A6b72",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "anwitocrypto.eth",
+		"score": "26.956"
+	},
+	{
+		"donor": "0x1C02F675D86Fd32471ff4796626DdA83Fb9E4b83",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "amduscias.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xcFD175A5830Ac0D2DC38bD43030d1baBbCb1eE44",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "flight19.eth",
+		"score": "19.725"
+	},
+	{
+		"donor": "0x88a43E29B15bbB9FE7E8ceee661eB03540f26F70",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "footballhub.eth",
+		"score": "22.266"
+	},
+	{
+		"donor": "0xd021961428F6329DB776449a39A398153b6718ec",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "sajidkmt.eth",
+		"score": "38.629"
+	},
+	{
+		"donor": "0xbB5547f8B2Cc4FF8d22Fc5da655B97E8281aBe8b",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "drzcrypto.eth",
+		"score": "21.175"
+	},
+	{
+		"donor": "0x211370310a5AfA44F6648c5A377C6B895464C91E",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "fzcrypto.eth",
+		"score": "42.510"
+	},
+	{
+		"donor": "0x87f00F3A0409CCFC2ec4f59B6d898c3c0e10dDB3",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "99money.eth",
+		"score": "21.364"
+	},
+	{
+		"donor": "0x12c3f6b21EF3C2834D4Cd1486612E084f5daD959",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "sajidkmt1990.eth",
+		"score": "36.321"
+	},
+	{
+		"donor": "0x719028736f10164c838Ef129936779eD739312f2",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 2,
+		"donor_ens": "future2.eth",
+		"score": "28.408"
+	},
+	{
+		"donor": "0x594FA881249Ab4d8f22eFFaFf6F78Bf10b0e7647",
+		"total_usd_value_at_time": 2.1,
+		"donation_count": 1,
+		"donor_ens": "cryptodevv.eth",
+		"score": "27.892"
+	},
+	{
+		"donor": "0xDCc40ff097eca5CA2CD2D8Ff5c405aF333E9E582",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "27.294"
+	},
+	{
+		"donor": "0x44Fda37c70b06a30A0FC4F1E5d4E5e853278adAe",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "14.871"
+	},
+	{
+		"donor": "0xAD2A23C2DBD2fB6C55aeE22D7002FE62D9d09dc2",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 2,
+		"donor_ens": "bushra1.eth",
+		"score": "22.079"
+	},
+	{
+		"donor": "0x9fe2565a88D4e55Ef2D7D91D16CDCfF63cC1d605",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": "24.226"
+	},
+	{
+		"donor": "0x30f8506c1BfFDF7B96110E7e9caDeD4aCD1Aa235",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "yidam.eth",
+		"score": "30.674"
+	},
+	{
+		"donor": "0x9d18971Ca58Fc68f41E32Af75569e8Aeed1051BE",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "graphscan.eth",
+		"score": "3.610"
+	},
+	{
+		"donor": "0xCcC3eaD1a68E2d65eb88Cc7064F78fAea1A3f451",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "psr4037.eth",
+		"score": "27.168"
+	},
+	{
+		"donor": "0x9b6B68094B3B28093cc306B2aEF3917038789406",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "glonky01.eth",
+		"score": "40.748"
+	},
+	{
+		"donor": "0x5159dD11378Bd23d800198A7e2C3775861B0045b",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "shad007.eth",
+		"score": "4.236"
+	},
+	{
+		"donor": "0x5158F4BF6688Af056a66992DD606D6a115244577",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "igor3k.eth",
+		"score": "21.657"
+	},
+	{
+		"donor": "0x1D9Ee1f6D16435AC7AaB8A5E88776E4b701194E8",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": "31.470"
+	},
+	{
+		"donor": "0xb71bF0709341Ad34F729C0D1d1C53e46D9a98E83",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "tedde.eth",
+		"score": "33.737"
+	},
+	{
+		"donor": "0x0fE240A875d41949E10a3a9B35bfF251bcccAA77",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "rezoyan.eth",
+		"score": "35.746"
+	},
+	{
+		"donor": "0xe308eE20eE2528830f53364E84B47e0ed08d4efA",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "141x0.eth",
+		"score": "39.962"
+	},
+	{
+		"donor": "0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "coinmandeer.eth",
+		"score": "35.236"
+	},
+	{
+		"donor": "0x05B5BF6777c2fF44797a25920234766b246df36C",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "30.029"
+	},
+	{
+		"donor": "0xc330Feb66993346B932d397e085B6FC4234f97d9",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "surjendu.eth",
+		"score": "34.621"
+	},
+	{
+		"donor": "0x87Fe464eb62943BB0d9eD685E02DEB66997756Fa",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "22.494"
+	},
+	{
+		"donor": "0x81f6b887657b679D9E23153fFCd703E111010240",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "necopov1.eth",
+		"score": "21.804"
+	},
+	{
+		"donor": "0xE66E3B88300F859bdDc9cD15399F07705890CD7e",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "jerrinantony.eth",
+		"score": "12.932"
+	},
+	{
+		"donor": "0x5118d9F1f38916865bf15B4b808cd396B3087839",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": "netzebw.eth",
+		"score": "35.018"
+	},
+	{
+		"donor": "0xF2e672429B5c18e156765d1Fc3DE9215c79320bF",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.559"
+	},
+	{
+		"donor": "0xd0c0d8e7360D8166d2C7676Fc9c0F378ccB8107D",
+		"total_usd_value_at_time": 2.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "8.953"
+	},
+	{
+		"donor": "0x9eCA397803e53aE84545afcBA73f5fd4775fEc8f",
+		"total_usd_value_at_time": 1.9,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "19.714"
+	},
+	{
+		"donor": "0xDd3eE03C9587b73985B10d8A9D8Ec2930fa575F7",
+		"total_usd_value_at_time": 1.9,
+		"donation_count": 1,
+		"donor_ens": "chicochan.eth",
+		"score": "11.289"
+	},
+	{
+		"donor": "0x591Aa4c0f26713f94982e8B2a9bf826cB8FeE42E",
+		"total_usd_value_at_time": 1.8,
+		"donation_count": 1,
+		"donor_ens": "3344556.eth",
+		"score": "4.331"
+	},
+	{
+		"donor": "0x06c5606FF51eA7c1908F8F88056333DFcEdD940c",
+		"total_usd_value_at_time": 1.7,
+		"donation_count": 1,
+		"donor_ens": "tatlee.eth",
+		"score": "65.760"
+	},
+	{
+		"donor": "0x21D90E6F18f3848d9e45F34BdB4dfdde3FA09D1a",
+		"total_usd_value_at_time": 1.7,
+		"donation_count": 1,
+		"donor_ens": "moyamoya.eth",
+		"score": "32.968"
+	},
+	{
+		"donor": "0x28d9E67aA72214f90D728901Df0ddCD15B668151",
+		"total_usd_value_at_time": 1.7,
+		"donation_count": 1,
+		"donor_ens": "dokos.eth",
+		"score": "22.410"
+	},
+	{
+		"donor": "0x880395dB518ee1Ccc47b7dE76d91BEaD7E05733a",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "adithyarao.eth",
+		"score": "7.893"
+	},
+	{
+		"donor": "0xd03E33B5b6556E43734B764c3D6F10F80B932b0F",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "repairam.eth",
+		"score": "39.096"
+	},
+	{
+		"donor": "0x787A065E9633C92792d33Bc50a1dc8d6b3d1C51D",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x17196B4d4b38335018FbACc031aD198bc92C5bee",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "bhaskar27.eth",
+		"score": "33.452"
+	},
+	{
+		"donor": "0x426cf0A8423A9522A78cd3325984AE000D425EeB",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "jfactor.eth",
+		"score": "26.671"
+	},
+	{
+		"donor": "0x78AB14EB30C0920E4b0210d3f8dD2754f680cBCe",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "0.606"
+	},
+	{
+		"donor": "0x6df6752b8118946bF7e41E66cB4f6d1Cb5917AC4",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "xmetavers.eth",
+		"score": "39.047"
+	},
+	{
+		"donor": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "tekr0x.eth",
+		"score": "12.350"
+	},
+	{
+		"donor": "0x5A4DbCb6A544888aAF739d8E4431cF9D0ee81300",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "32.868"
+	},
+	{
+		"donor": "0x32267d604f90AcAf3469d7F34e5458093911fa9f",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "swadeshcrypto.eth",
+		"score": "12.382"
+	},
+	{
+		"donor": "0x461234eD54C90AD9F3cd2a8a014aaFe0fb4E2732",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "mertcaylak.eth",
+		"score": "32.006"
+	},
+	{
+		"donor": "0x4f0420D3f8b97AbbB3086CaA9DB056Df8c5f9a63",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "6.657"
+	},
+	{
+		"donor": "0x9D76Fa4BB0f48859B4191aBa546ecEC5232A7F0D",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "sonx777.eth",
+		"score": "41.282"
+	},
+	{
+		"donor": "0x1392f7f9B82d4F31F0222390A823f60465c15231",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "mrboda.eth",
+		"score": "34.811"
+	},
+	{
+		"donor": "0x04c6F47B718957d60c6cc0ff9f93Df9aC6E3ef6c",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": "mbh.eth",
+		"score": "39.709"
+	},
+	{
+		"donor": "0xb1714D503C7Bdd6d6485c809f4c811220bf65Faa",
+		"total_usd_value_at_time": 1.6,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x9cD7D1981B3e15a2DEE4d512ac60E0579Ae18546",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "jackjill.eth",
+		"score": "34.934"
+	},
+	{
+		"donor": "0x5DD81D9Fa9Efe134F53F3AD02ba5b5E230c2EC0b",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "tcmehran.eth",
+		"score": "17.734"
+	},
+	{
+		"donor": "0xf6E2b0ece192Fe98089ED604185442fF8bd56a7b",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "samaun.eth",
+		"score": "23.680"
+	},
+	{
+		"donor": "0x0178274Ec3e22cB684a35d829f5e15F66441e71a",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "m0h5en.eth",
+		"score": "24.461"
+	},
+	{
+		"donor": "0x5BA5b1Ed55ACeF2854274691062eEAa4281660A5",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "37.521"
+	},
+	{
+		"donor": "0xfF8D6f7CF011dDfD4C32cDe33A7e0281416a12f0",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "0xconsome.eth",
+		"score": "11.289"
+	},
+	{
+		"donor": "0x00B555Ad266C51C5f24B714358917bF1A2fDaAaF",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "30.965"
+	},
+	{
+		"donor": "0x5F3e7bB251e71363A8F92f0da3d2268c470D3268",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "tanzilk.eth",
+		"score": "21.024"
+	},
+	{
+		"donor": "0xe3438E31702fA8D72A83e7Ea89fdf92649196862",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "nsayn.eth",
+		"score": "53.656"
+	},
+	{
+		"donor": "0x7e651F5f597436cD0fa941F5FF2cD45Ef3F2Fda8",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "chveda.eth",
+		"score": "36.968"
+	},
+	{
+		"donor": "0x3701bBFc577F1CBd579Fe15Da23B687968030fBE",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "dopaens.eth",
+		"score": "35.954"
+	},
+	{
+		"donor": "0xc2Ce6a6d3e04d407C5F5a4354575c3FE2888CE34",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "3.915"
+	},
+	{
+		"donor": "0x5ef59cbF04975c799bC3dd1E75a3DE70529C1D9A",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "fuzzyman410.eth",
+		"score": "21.183"
+	},
+	{
+		"donor": "0xa6b2360644fc71A6f1dbd15341677d07a60387BA",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "scarletmacaw.eth",
+		"score": "30.788"
+	},
+	{
+		"donor": "0x32949cD2345c328D5846709923e47bE5226A58e9",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "ethtopay.eth",
+		"score": "40.502"
+	},
+	{
+		"donor": "0x1c5C982f933b71dF7961797Ac328cF4743BC1c27",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "28.498"
+	},
+	{
+		"donor": "0x1F61b4eA0b4d1372E9e16141Ed121C0615e53D0C",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "34.714"
+	},
+	{
+		"donor": "0xc191a29203a83eec8e846c26340f828C68835715",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "goodwillyunting.eth",
+		"score": "38.727"
+	},
+	{
+		"donor": "0x7fBdE8B27D2B4F164B66F2a9dc02bbD6697e5b19",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "sandhyaraj.eth",
+		"score": "38.293"
+	},
+	{
+		"donor": "0xc37e705f34801896121B2Da24327332Cb7DC2CA7",
+		"total_usd_value_at_time": 1.5,
+		"donation_count": 1,
+		"donor_ens": "modernst.eth",
+		"score": "28.722"
+	},
+	{
+		"donor": "0xB26EE6136AE3C4e35BdeF8e38F6C6AF1388f93d1",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "jayrathor14.eth",
+		"score": "34.735"
+	},
+	{
+		"donor": "0xf2EB70e0c90CB9C8720CB374a8690cdC63E1680a",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "akgvc.eth",
+		"score": "16.331"
+	},
+	{
+		"donor": "0xFb1f7BDf88a1841e4e4878c9dd6c9C095055635d",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "raynkhali.eth",
+		"score": "12.064"
+	},
+	{
+		"donor": "0x2Fd55370391e5E099AA300a587d93C35dd8986B4",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "metaverse101.eth",
+		"score": "21.428"
+	},
+	{
+		"donor": "0x3c8524708c0135D98798D5E4205f5DF6590f594f",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "masihzad.eth",
+		"score": "8.440"
+	},
+	{
+		"donor": "0x8D3960DE40456fB9FB350e58090D91b180b414A6",
+		"total_usd_value_at_time": 1.4,
+		"donation_count": 1,
+		"donor_ens": "mcstefan7.eth",
+		"score": "31.888"
+	},
+	{
+		"donor": "0x3b3460489b82D8FF150eCEF6379a3d915Ffb39a6",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.672"
+	},
+	{
+		"donor": "0x69A42BBD3930bb5d14aA8d879d85d2B457d3f714",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "bobby21052023.eth",
+		"score": "5.951"
+	},
+	{
+		"donor": "0xd24FDE44A8d5360a77C6c8722649F723D42E04aF",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.756"
+	},
+	{
+		"donor": "0x8e30Dc2AEF957B1F7dd67B1b7bC651fFe7E17a06",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "cryptomarketblog.eth",
+		"score": "30.662"
+	},
+	{
+		"donor": "0x1C48E034d5975A0E080EA3E427Ec4A80c53f29A8",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "28.902"
+	},
+	{
+		"donor": "0xC761415988A69a5b66c9C1098deC0Ee70d8BF0ff",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "lakshmisomu.eth",
+		"score": "21.662"
+	},
+	{
+		"donor": "0xB9beee8F793f5caC19e0311D49382ba933A0065d",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "scholarshipsat.eth",
+		"score": "26.581"
+	},
+	{
+		"donor": "0x249265F9B06d2F7Ab5282126786ae3F73b1Ddd29",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "mryahya.eth",
+		"score": "24.551"
+	},
+	{
+		"donor": "0xE8f7355a17Fc67219fd6D15fC9fFD5662977957B",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "36.582"
+	},
+	{
+		"donor": "0x8D5e41BB155faf38F6DEa54053bE128b088956b7",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "29.159"
+	},
+	{
+		"donor": "0xC1A3078e1308ae72c79B472A92b1282Ddef5Bd7A",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "ripethmining.eth",
+		"score": "31.494"
+	},
+	{
+		"donor": "0xCeb7ce83f16FF4B4331A290f36464cc6e90c2c64",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "anandsomu.eth",
+		"score": "29.609"
+	},
+	{
+		"donor": "0x79Bdda65C706CBdA69C0AD4C8da1d3e91724f48D",
+		"total_usd_value_at_time": 1.3,
+		"donation_count": 1,
+		"donor_ens": "poomink.eth",
+		"score": "60.212"
+	},
+	{
+		"donor": "0x51354b2a8D7d376686746b1FC318aCacB291a4B1",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "puzzlesolver.eth",
+		"score": "14.243"
+	},
+	{
+		"donor": "0x83bbe9CFCc205bb8E53cBa0b51d6db9386CE58B5",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "pkhemapet.eth",
+		"score": "55.731"
+	},
+	{
+		"donor": "0x88E1Cbd697a5F83397a628CBE78039207AF6E80E",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "kiran143.eth",
+		"score": "37.578"
+	},
+	{
+		"donor": "0x92DE600F86669D5BC23fd33c4b93689D49C55aaE",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "irazer.eth",
+		"score": "25.168"
+	},
+	{
+		"donor": "0x5273199C003dAD5f3b61995Aac7CE06F5Be9b09c",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "27.049"
+	},
+	{
+		"donor": "0x4EFf2F739B1B0d5719662f9094A06A742ed99c43",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "coinsland.eth",
+		"score": "9.752"
+	},
+	{
+		"donor": "0x84641751b5835d7D8B949C4A6d5e006958f32bCc",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "moveplus.eth",
+		"score": "5.129"
+	},
+	{
+		"donor": "0xffBBF35641dA572Fe6f67a3f5FF78683fE6dA662",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "ismailyuksek.eth",
+		"score": "3.620"
+	},
+	{
+		"donor": "0x9800D62447457fA8D719f735201dAA7900DA756e",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "elon77.eth",
+		"score": "11.596"
+	},
+	{
+		"donor": "0xd1E61787A8601302b3624D7d6b5D987952d7EDe9",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "22.655"
+	},
+	{
+		"donor": "0x73Abb4291E37Ba0f1EbEA2661Fc015a8245f7508",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "usmanali.eth",
+		"score": "35.458"
+	},
+	{
+		"donor": "0xab62265D80c6B88A01FFe8a7Edd58C2a1a7B0db6",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "worldhub.eth",
+		"score": "10.292"
+	},
+	{
+		"donor": "0x219dF17D981b18e21ab5003320bD34e72b325E05",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "xwaves.eth",
+		"score": "35.662"
+	},
+	{
+		"donor": "0x1d202DAfF74d2a6F124A95b588fBd010b896D267",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "worldcrypto.eth",
+		"score": "10.292"
+	},
+	{
+		"donor": "0x1EFe088E25aD05e958CD1759b732a2e3e9B6804F",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "jigsmathur.eth",
+		"score": "13.091"
+	},
+	{
+		"donor": "0x1Bf2BB6baBeA16A5bF4ecfa058844b81CecaE7b1",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "coinstoreus.eth",
+		"score": "24.861"
+	},
+	{
+		"donor": "0xd0788c420418a1E5fEBBb6c210715F36Ca885C1B",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "goldendomain.eth",
+		"score": "12.309"
+	},
+	{
+		"donor": "0xdc0A8c1edE00d0413B07251CC1cf10BA065D9A57",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "aratishaw.eth",
+		"score": "28.072"
+	},
+	{
+		"donor": "0x26AaA395CC85032976ECf986c9C30d8fB7485f2f",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "talhe.eth",
+		"score": "35.390"
+	},
+	{
+		"donor": "0xe13aC87C5Eaf5A43a9aD2C20f84a4C84f3642373",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "cosmicall.eth",
+		"score": "24.628"
+	},
+	{
+		"donor": "0xe90021042Fa45ecd0245f149c03604BacDD352f8",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "19.019"
+	},
+	{
+		"donor": "0xeb6a2E36933Abda9bf9E83a73B7bf2462E9B7aFc",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "kysor.eth",
+		"score": "0"
+	},
+	{
+		"donor": "0xf1341ea107c8Ed5846f96C54325D5c43C83bCE09",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "yaozhenmin.eth",
+		"score": "47.942"
+	},
+	{
+		"donor": "0x0979eEdF010102daB18eba8696292F5621BCab44",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "29.829"
+	},
+	{
+		"donor": "0x07c8978fb1029F679Ad48D59223144dfbfE21E94",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "zkbytes.eth",
+		"score": "35.952"
+	},
+	{
+		"donor": "0xf5AB6B4a8d578807491ef59cE855982990932617",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "maheshs.eth",
+		"score": "31.119"
+	},
+	{
+		"donor": "0x7CB414C6230CD0e460C1674cF0253349259D6e02",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "hariss.eth",
+		"score": "24.994"
+	},
+	{
+		"donor": "0x2D107e1e220991179dB0a68d662e1E40FfDC35E5",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "mylord\ud83d\udc51.eth",
+		"score": "20.004"
+	},
+	{
+		"donor": "0x433F88FC59ECc439bed298EeE4F989bF84bCa097",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "sex34.eth",
+		"score": "32.286"
+	},
+	{
+		"donor": "0x45630ccD397Ab23e4bc1D08066F82cE42260d6f6",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "anijda.eth",
+		"score": "32.339"
+	},
+	{
+		"donor": "0x4455B1DA5f058167cC05800efB5A7055AE33fa0A",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "afreenali.eth",
+		"score": "21.473"
+	},
+	{
+		"donor": "0x7B3F69F7ef9A168A89b24D3cAc05382EaC286E23",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "ewealthy.eth",
+		"score": "21.568"
+	},
+	{
+		"donor": "0x436cAB9c516c4ea1e71acb3F344509465503633D",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "31.027"
+	},
+	{
+		"donor": "0xF7E49A598F95B43d7D0f62938C851370a2FFFb5C",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "akashshaw.eth",
+		"score": "21.673"
+	},
+	{
+		"donor": "0x3B981fA5dD50237dAb6F96A417A6690B6f20FcC4",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "cosmicop.eth",
+		"score": "22.841"
+	},
+	{
+		"donor": "0xAF694d15d57206CE52894E8E95294747145cd19f",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "iamatomic.eth",
+		"score": "11.924"
+	},
+	{
+		"donor": "0x7608403ba9979258eFC3a68D51c44f9904cadecA",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "oxdecathlon.eth",
+		"score": "8.169"
+	},
+	{
+		"donor": "0x683a34A3DEced79fde4BD0eB96B9F8FE84460716",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "poojashaw.eth",
+		"score": "29.075"
+	},
+	{
+		"donor": "0x9B0eaA560007D208A885f66e013E58c6665Cf7ec",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "rainbow0908.eth",
+		"score": "31.215"
+	},
+	{
+		"donor": "0x752a1ec2358082D1e648e4FdaCcc41d321d9Ff6B",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "hussainkinya.eth",
+		"score": "37.486"
+	},
+	{
+		"donor": "0x3028e8434cdDD7c13e0309fc894f1A18e821352F",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "phoenixunicorn.eth",
+		"score": "36.137"
+	},
+	{
+		"donor": "0xF4BC9C3173A91f3F581b67fdb7eEC24AfaB7fFC5",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "tuhin033.eth",
+		"score": "28.461"
+	},
+	{
+		"donor": "0x9CeDe98A685DB4b41C9B20e213D563EF0C35eDED",
+		"total_usd_value_at_time": 1.2,
+		"donation_count": 1,
+		"donor_ens": "scholarshipsathi.eth",
+		"score": "14.751"
+	},
+	{
+		"donor": "0x6C5Ecf9269DC1bB81980B5112b6d32D476cB4B9D",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "mozahid.eth",
+		"score": "26.815"
+	},
+	{
+		"donor": "0x7E8253d9CA31C8F76f7129e098211a0E20Fc8692",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "gonfreecss8721.eth",
+		"score": "26.183"
+	},
+	{
+		"donor": "0x73fCcCe878d100D8511E1604D6a8b4FD79fdf98F",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "mywalletmydream.eth",
+		"score": "24.009"
+	},
+	{
+		"donor": "0x6d2C80315bB93807676E6121060E4505FeD53ECd",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "treego.eth",
+		"score": "34.008"
+	},
+	{
+		"donor": "0x72474CF4486119cf26B380A20702885eB561e6EA",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "gowthambujee.eth",
+		"score": "32.341"
+	},
+	{
+		"donor": "0x7453Cd5C7CBd120BC48F108CB39fcD9cE7766e4B",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "4.721"
+	},
+	{
+		"donor": "0x73EdB592e75216DC3c61596A8F240Cdf525D2f32",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "defininja2.eth",
+		"score": "18.062"
+	},
+	{
+		"donor": "0xC9d40065c7cA03CeE6ec5fD7497a8C200619D5C6",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "premierinfo.eth",
+		"score": "20.295"
+	},
+	{
+		"donor": "0x802dbD9Af9055C0c8C92C610106618289D31eff9",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "wsonanameservice.eth",
+		"score": "31.743"
+	},
+	{
+		"donor": "0x80cC4a8b936C6ef7081A1a1409144bC74Cf5E25D",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "23.388"
+	},
+	{
+		"donor": "0xa73Df4F0ceA035B83D1c3692FF30c6B440a98785",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "gamespulse.eth",
+		"score": "25.884"
+	},
+	{
+		"donor": "0xaA034E8e59EaC06c35da337D5f793850217C11d3",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "la-di-da-doo-ba-ba-di-da.eth",
+		"score": "6.462"
+	},
+	{
+		"donor": "0xbfFD379c41289adBff977C9BB994c1F0236b72C3",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0xc033B8AA5a9E914cD30EB16123c1bd5dB743D3d6",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "defininja3.eth",
+		"score": "18.062"
+	},
+	{
+		"donor": "0xc6B241AC83E617F4fD0e8AB5EC8a0B7485F0763E",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0xce56fbf61eE1CA1F6a299B3A99878Ac39733B734",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "28.024"
+	},
+	{
+		"donor": "0xd1c805676244085838262806fFb92b21421e5B8d",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "pencha.eth",
+		"score": "32.227"
+	},
+	{
+		"donor": "0xd31a175A450a3095d9A1ec68Eca0745D51af7603",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0xd3D6a2bEEa31085DA6bE2a874618D466693399f8",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "poorwojak.eth",
+		"score": "28.104"
+	},
+	{
+		"donor": "0xdB5b7C0B4cC4C88aEd294257762fa83955b68e30",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "wattronium.eth",
+		"score": "35.952"
+	},
+	{
+		"donor": "0xe2C8f9E17A6d5C6dF24444fe3050360a14822904",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "furqanmalik2022.eth",
+		"score": "20.672"
+	},
+	{
+		"donor": "0xe92E3A0c6d100077a167a4DCD0cB8B8E1332881a",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "34.906"
+	},
+	{
+		"donor": "0xeA9d5a51F1a63F023D562BBA9182155a2D640358",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "cryptogic.eth",
+		"score": "34.301"
+	},
+	{
+		"donor": "0xf4f8C62678CF535543c8071c10c7bbf1fDDa72Ec",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "22.227"
+	},
+	{
+		"donor": "0xf6BBD490AC3CC90e2975573fe043412bf0a2FD79",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "23.513"
+	},
+	{
+		"donor": "0xf704d714eC68a378dfE0C24825932B9Dd38d1CCC",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "vladimirilyichlenin.eth",
+		"score": "35.290"
+	},
+	{
+		"donor": "0xf9B1A54dd6D4ef0ade7feb45fD29344d2D01D3a2",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "criselda.eth",
+		"score": "18.062"
+	},
+	{
+		"donor": "0xfC457f12abA3bC91f438e2233dC7DaE3926Bf549",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "heartrypt.eth",
+		"score": "9.336"
+	},
+	{
+		"donor": "0xfF0642F71889101d1E8d3955d7148883F9d6cB3a",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "cryptosharknet.eth",
+		"score": "22.590"
+	},
+	{
+		"donor": "0xa128FEb423E0637238C6e483712416De2E214770",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "reflectivesoul.eth",
+		"score": "35.971"
+	},
+	{
+		"donor": "0xa10dB7fb869ED1fA2bBc0A1F6aAcd66F367119E7",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "scholarshipamerica.eth",
+		"score": "3.814"
+	},
+	{
+		"donor": "0xFf2912ddaC86077A152a71d1C40da3e82f939a77",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "16.640"
+	},
+	{
+		"donor": "0x9a540469268B3D181FcE89F8d39ce44273571805",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "baramati.eth",
+		"score": "15.409"
+	},
+	{
+		"donor": "0x87d0c8DAd8ECf4b71469393787c6b7E57b63eC07",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "bebroid.eth",
+		"score": "26.794"
+	},
+	{
+		"donor": "0x8D76794F933f74e61D7D7A881c99d4aa08FE6fe9",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x9159b3b09A2d2C76fc098187aDdCeBA5Bc75cc73",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "belzky.eth",
+		"score": "35.805"
+	},
+	{
+		"donor": "0x919c5e27a93222Dd99078F5192b41423B6e6447f",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "76484.eth",
+		"score": "9.693"
+	},
+	{
+		"donor": "0x92b33804688E77ff3A97F4cD3910f39594d624e8",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x93Ee2db5F74B4c461a290067E7Ce4aa9FB97202a",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "magicbuzzz.eth",
+		"score": "5.350"
+	},
+	{
+		"donor": "0x981f5Ce3CfF4F608c88D02189684C288Ec83508A",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "azaanalam.eth",
+		"score": "31.597"
+	},
+	{
+		"donor": "0x9F3C061270C4492bC65BF976762742a861e6236a",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "abari.eth",
+		"score": "29.128"
+	},
+	{
+		"donor": "0x9c9a2d9826b7c7e95D686e5714Fb0eF948EbC6B8",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "53.875"
+	},
+	{
+		"donor": "0xFe8EB2ee5e2bDbbcFE7bB214721dc6d95E4aBD72",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "smk5005.eth",
+		"score": "21.389"
+	},
+	{
+		"donor": "0x9e602c1920443F01Cb100a57A7F894df8Eb42f66",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "paplee.eth",
+		"score": "48.212"
+	},
+	{
+		"donor": "0x9e62bC0752C5635aF48D5F65d7050D6FFD021D76",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "sososickbro.eth",
+		"score": "26.444"
+	},
+	{
+		"donor": "0x9f4Cb53e9A2E9aaE05dce7F315C0437463326208",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "elipcompany.eth",
+		"score": "15.435"
+	},
+	{
+		"donor": "0xA7e34d2fce91E5FbF45bF7f8A7CBdb1E6663F125",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0xAc7dD5a34f5859ef1fEcC8f4D036f75A35B19eB9",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "supersabbir.eth",
+		"score": "28.825"
+	},
+	{
+		"donor": "0xBA3c852367a720DA7aE2C9Ab808ad6195064dC0e",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0xD68965a3Bc263c3a2d43c713cd971aE16c31CB18",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "saveandtravel.eth",
+		"score": "47.308"
+	},
+	{
+		"donor": "0xEb87CE2DC9972253A4CBC2CB1068739A0C81a711",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "hi-rekt.eth",
+		"score": "40.481"
+	},
+	{
+		"donor": "0x6856f197082D361ec7d6db05E27cEa781E8ED8F6",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x002B5dfB3C71E1dC97A2e5A0A7f69F3e7b83F269",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "omaral.eth",
+		"score": "27.447"
+	},
+	{
+		"donor": "0x227179eD22661F446450Aa5EFe0a6Ac45A8bc2CB",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "hesniy.eth",
+		"score": "24.702"
+	},
+	{
+		"donor": "0x680C91c7d8339842D297A6de73e4D6D0941fd818",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "zedxion.eth",
+		"score": "31.573"
+	},
+	{
+		"donor": "0x33f94a2A730728630294Bd5E572025a40D1724D7",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5b05DF99fC93d76d31603427798c58fe15b62431",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "visomac.eth",
+		"score": "21.956"
+	},
+	{
+		"donor": "0x0cc0fDfA2A9EdFC89087E405a4d4b6120ea686fB",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "lifepeace.eth",
+		"score": "14.211"
+	},
+	{
+		"donor": "0x5b0254bd9Dc7CFFCfDfBed999F6390AB2ac3811B",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "cordialk.eth",
+		"score": "31.322"
+	},
+	{
+		"donor": "0x35AAC97Ef243579495117B16D16aE98fD54A602D",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "sipa92.eth",
+		"score": "35.261"
+	},
+	{
+		"donor": "0x3f99c674e0D76c77D4a90a520c9055ca81C39D1d",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "aundingoya.eth",
+		"score": "45.179"
+	},
+	{
+		"donor": "0x3eDfB642B64266F794E8e4BF5e7F4e1d3Ac240aC",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x3654e338d60455e1d7bcfd6158a810eF1509A83e",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.824"
+	},
+	{
+		"donor": "0x08C97845afeFE7985E13957e531463ce8F18a5b2",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "29.195"
+	},
+	{
+		"donor": "0x4f5f385494A00737E6688f7B345144ac0a6FAc9b",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "mehdihp94.eth",
+		"score": "20.039"
+	},
+	{
+		"donor": "0x3d3c34d452332225444c5a82225517a9cDD17d8b",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "inkneverdie.eth",
+		"score": "36.619"
+	},
+	{
+		"donor": "0x517750948ad729FC150631EE52dC1219C8492d2E",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "xabbasx.eth",
+		"score": "24.670"
+	},
+	{
+		"donor": "0x5Cde0B37AA43B7364DFF3939026C2AbeD6B16623",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.108"
+	},
+	{
+		"donor": "0x5A5ca5770aE6d615f857719fbBA1F8b7B97ac626",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "eloshiii.eth",
+		"score": "29.611"
+	},
+	{
+		"donor": "0x1EE054211e3B5FeC5BCb24e99142cb33734FfC22",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "zkcrypto0.eth",
+		"score": "23.921"
+	},
+	{
+		"donor": "0x4d0725BD1eD293F044C319a4E444bEe6F8349a2C",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "darkknight94.eth",
+		"score": "19.689"
+	},
+	{
+		"donor": "0x1Df7B81657A3449Ed337722597B0Eb2e6a83Bde9",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x3b98a9e999a403650589353b371a4e2ED0dd789E",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "saman82f.eth",
+		"score": "9.981"
+	},
+	{
+		"donor": "0x56b796d18ACd2A2ceba05344179580922EC016A6",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "rock.\ud83e\udd1f\ud83e\udd1f\ud83e\udd1f.eth",
+		"score": "34.250"
+	},
+	{
+		"donor": "0x3a70E287029D7b76aC0400ce8d20b4AFc0CDE07D",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "jimb777.eth",
+		"score": "45.984"
+	},
+	{
+		"donor": "0x1DF7f562F33bdeb744FF93d987590FC47502B028",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "anjanb.eth",
+		"score": "6.852"
+	},
+	{
+		"donor": "0x1954fCE39dd1Fa4541A00c29D9F9B8EBA32de5eD",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "camazinga.eth",
+		"score": "38.530"
+	},
+	{
+		"donor": "0x51Df221bc13B52E6BFdfD3b30A2Dfdf32009073B",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "danskvand.eth",
+		"score": null
+	},
+	{
+		"donor": "0x51a9E882c70F7bA006e415622114350eE190118B",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x51b7147dC3DFF3A54c48a41b9553965afb7F4D8b",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "rjraunac.eth",
+		"score": "19.934"
+	},
+	{
+		"donor": "0x39f9dBe4a60b5F017d95889eF9DC50B58cC543cA",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "33.866"
+	},
+	{
+		"donor": "0x3A6dE3D2eEA38C6d806ca7a0924D80C85994cE16",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "cryptoag95.eth",
+		"score": "37.352"
+	},
+	{
+		"donor": "0x3B6C3A56f2a8CcB75049DbD98b5bE146bF3cA1C8",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "litetiger.eth",
+		"score": "34.989"
+	},
+	{
+		"donor": "0x3C61A2f643060A2b1829d8BE2ec39AfbFE2102cC",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x0A42409fa23217c019e5FE219cd93CC057b4D258",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "17.133"
+	},
+	{
+		"donor": "0x400E5813801D8d2Ef5eaAAE91BEC59A73665484c",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "15.608"
+	},
+	{
+		"donor": "0x3DbCCE23110B24Cb7bbd7CB41aDf70Fe2FA302f2",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "starknauts.eth",
+		"score": "35.938"
+	},
+	{
+		"donor": "0x10b26941e8BcecBcF60717C5e9e2260381d03d11",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "armadeicarabinieri.eth",
+		"score": "0"
+	},
+	{
+		"donor": "0x0e198F0c34A93aea5F6bD3967cbD1B8F8c8C8319",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "uniqueaddress.eth",
+		"score": "9.752"
+	},
+	{
+		"donor": "0x01bf4e7e0C3574ADf9c499Bf547dD27b2327188d",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "omaralihunter.eth",
+		"score": "9.922"
+	},
+	{
+		"donor": "0x2a1c5836bfA5e971560D1bA7E07248001f8b9daB",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "51.794"
+	},
+	{
+		"donor": "0x23f0D08797A87e63f55637b02EF25361290D52E4",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "31.455"
+	},
+	{
+		"donor": "0x657dd0c36CAb330D5dF1Bd45d327d0e6c3F7e2D5",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "azharkhan.eth",
+		"score": "25.895"
+	},
+	{
+		"donor": "0x25bAe1B44961a4D3509B8149621FD55f5e62c227",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "30.587"
+	},
+	{
+		"donor": "0x260054a8994720cfE3c25B7cA214e43B65A843F3",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "binancebd.eth",
+		"score": "24.117"
+	},
+	{
+		"donor": "0x13Efee00c8C9be4316E83F728B781C01F3361fD3",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "defininja7.eth",
+		"score": "18.062"
+	},
+	{
+		"donor": "0x468Fd68b81475Ac46D00f491bFA52ef8AAa17e97",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "yzdxs.eth",
+		"score": "27.133"
+	},
+	{
+		"donor": "0x459Fe3716253402a4d94b9651cd3832A1AeEe6e1",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "dygijokohg97.eth",
+		"score": "22.378"
+	},
+	{
+		"donor": "0x64F446b71c64fF4273e5e95220048bE349E41f78",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "cryptopinas.eth",
+		"score": "20.006"
+	},
+	{
+		"donor": "0x010A565eD3F310586dd79cf4a4CE918E1Af73cdA",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "layermask.eth",
+		"score": "6.881"
+	},
+	{
+		"donor": "0x316FD3C76BC7C64Da729b14167D00befEbc01b69",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "42.727"
+	},
+	{
+		"donor": "0x26538410190c473CC03a5E0ac617af55D50f7e31",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "nenerajunenemantry.eth",
+		"score": "34.303"
+	},
+	{
+		"donor": "0x6390A620d3e3F8caD7b100e064104dd649Db767F",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "34.758"
+	},
+	{
+		"donor": "0x446d4de5b9b34BB7E7Af275408Db41a75BcCc278",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "d3miveem0n.eth",
+		"score": "25.836"
+	},
+	{
+		"donor": "0x26A918a42Bd06f9Fe8faC129B6a31cFb2A81D94f",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "16.640"
+	},
+	{
+		"donor": "0x26Cb836E81bFc47c2530aDBF63968c9830a44C8d",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "salsabila.eth",
+		"score": "33.134"
+	},
+	{
+		"donor": "0x624c2FA5E63be663880b7A0f54e4C47aED85c061",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "36.924"
+	},
+	{
+		"donor": "0x66C6DE43D25b0Ebe9275F4b7DDc64a8D5015785a",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "17.654"
+	},
+	{
+		"donor": "0x609470c2f08FF626078bA64Ceb905d73b155089d",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "mesel.eth",
+		"score": "46.690"
+	},
+	{
+		"donor": "0x49A20Bf5D222d5EA4D897645ea07d274fA8478c7",
+		"total_usd_value_at_time": 1.1,
+		"donation_count": 1,
+		"donor_ens": "kingtot.eth",
+		"score": "31.455"
+	},
+	{
+		"donor": "0xA52cb670E7b05825EBB8D26dA906483C31142c24",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "xavierr.eth",
+		"score": "6.849"
+	},
+	{
+		"donor": "0x40F518b319cb0EEe96e0E34462b81C4C5a93FD3a",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "0"
+	},
+	{
+		"donor": "0x3b9cb1039636f308Bc3660632ECB3FA2B55EFBC1",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "rez27.eth",
+		"score": "24.681"
+	},
+	{
+		"donor": "0xd2f9F0FE3d1557e8e6053836cf0e90efa0B1F44e",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "lavarice.eth",
+		"score": "32.507"
+	},
+	{
+		"donor": "0x9f460Fa8548d552868297aD55608560bB89F447d",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "mollyrw.eth",
+		"score": "7.092"
+	},
+	{
+		"donor": "0x19c2A0E1398Ba78C00AF784fDEc4cD0bBE70A392",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "sabanegar.eth",
+		"score": "19.527"
+	},
+	{
+		"donor": "0x454B9eF431d63ce1C8BE4cbe354295d82a7ab4C2",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "rjessica.eth",
+		"score": "21.077"
+	},
+	{
+		"donor": "0x9D55E3bABEeBF4e24EB857082586aC7d21DA0E4A",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "anhotep.eth",
+		"score": "10.467"
+	},
+	{
+		"donor": "0x44D37cb388702c8d90D3CB347b0F59fC09EFa94c",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "bipol.eth",
+		"score": "1.638"
+	},
+	{
+		"donor": "0x9DEd299C2221d7da2AB179eE429e4DEe8DDD45c0",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "5.651"
+	},
+	{
+		"donor": "0x3fd0Ce9f00b690d8B6a6f7429652eb8743651402",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "xhale.eth",
+		"score": null
+	},
+	{
+		"donor": "0x9Ed713f08a834116109803e9b13fB16f2D965bDd",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "aerocharter.eth",
+		"score": "7.020"
+	},
+	{
+		"donor": "0x9F8e917AdC3C45085D0beBDe73950921C0b70982",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "rashidmallick.eth",
+		"score": "26.460"
+	},
+	{
+		"donor": "0xd08C4bfFa25b9a7B4d4255D96FbBeBb521Fe46b8",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "sevven7.eth",
+		"score": "20.914"
+	},
+	{
+		"donor": "0xBcf323F49dEe336D0605466aeD866Dd8BEC4b5E1",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "34.446"
+	},
+	{
+		"donor": "0xABdb1F94bFf885Bd8933AC4f8AAaCDA4326491dE",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "2.672"
+	},
+	{
+		"donor": "0xDc7F990EC4D2F2470BdeAfcABb9aE2C17Cc11312",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "21.585"
+	},
+	{
+		"donor": "0xCeCA342797947068CAFAb31f36B5f9F934B71a5E",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "32.485"
+	},
+	{
+		"donor": "0x22A6fCf441930F2DBec91D8c787Dc5eDdd8E55eC",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "5.183"
+	},
+	{
+		"donor": "0xD2602C7bDFC9F413974e944280BbFae275d1B1b6",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "bkhirapara.eth",
+		"score": "33.597"
+	},
+	{
+		"donor": "0xD2A5Fe28342677ceF555320732828C014e537D49",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "rahulsinghchouhan.eth",
+		"score": "25.604"
+	},
+	{
+		"donor": "0xaE9fc602BD1a908b98299fC99cC62eaD87856eE4",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "onoron.eth",
+		"score": "29.474"
+	},
+	{
+		"donor": "0x30ee1f53c0e9489fDeB7047d005684D641bAfb37",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "cryptomonkey84.eth",
+		"score": "28.027"
+	},
+	{
+		"donor": "0x2b5b22e8C9444a64e85546f7F161eA382e06F825",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "abdollah.eth",
+		"score": "29.683"
+	},
+	{
+		"donor": "0x32506790D5aAc3f2f948570c4FFeCA127236270D",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "4.598"
+	},
+	{
+		"donor": "0x23A2C79d2EE1aDb54fa27d5Da489379C1e274Bc7",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "chloe36.eth",
+		"score": "6.849"
+	},
+	{
+		"donor": "0xE014c63C33777b1EeDECe48f7E5de886E541bc7c",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "realnoobie.eth",
+		"score": "35.653"
+	},
+	{
+		"donor": "0xa64422333a705111022604005F995f1A69098137",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "joskakokot.eth",
+		"score": "25.700"
+	},
+	{
+		"donor": "0xEFF141CCecD6a84ededc39D2b276b4821d458068",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "ayhan1234.eth",
+		"score": "7.698"
+	},
+	{
+		"donor": "0xF01d9114b780154b08B1515d7Fa2808FDb691495",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "35.256"
+	},
+	{
+		"donor": "0xF422D6D8607d9A45435F8C39E376B020DDc200ef",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "2.163"
+	},
+	{
+		"donor": "0xCcCE0cad424893Aa8756E4D28FcE3DD03d9615de",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "massa1234.eth",
+		"score": "19.918"
+	},
+	{
+		"donor": "0xac0ab33469963E8c117d7e8989e3B5538Ef8c87B",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "n4k4moto.eth",
+		"score": "36.477"
+	},
+	{
+		"donor": "0xAc9a102344Ee0B22334dC09668674Da1d2844Df4",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "rayanaa.eth",
+		"score": "6.887"
+	},
+	{
+		"donor": "0x9552b796E54d6f5ceca5108c9358c2C1cDd03160",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "addison459.eth",
+		"score": "4.832"
+	},
+	{
+		"donor": "0x1DE83E6c96fB3e109EfC0E781D43B315f947adF9",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "jingou.eth",
+		"score": "4.420"
+	},
+	{
+		"donor": "0xB109F7f582C857e1bEFb4D533bc6649C90C2C97B",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "amirfarhan.eth",
+		"score": "10.450"
+	},
+	{
+		"donor": "0xc65D3209ce44DEF4C9D8AA0B7E5Ce5526e84530a",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "amarirafi.eth",
+		"score": "29.693"
+	},
+	{
+		"donor": "0xc4607a1dcD4f547c827A31Cf3FB69beA80137c04",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "supergitcoin.eth",
+		"score": "38.460"
+	},
+	{
+		"donor": "0x37d28B9f727078B31d30B756b45F4A179f0Aa90E",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "samuelll.eth",
+		"score": "8.869"
+	},
+	{
+		"donor": "0xBA715566ebB933102651465B02e8dBa50B29DD43",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "webmastermind.eth",
+		"score": "21.391"
+	},
+	{
+		"donor": "0xBf12E6db3E9c863bc6941BaC16d13F512624e07C",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "hfthfgghf.eth",
+		"score": "20.956"
+	},
+	{
+		"donor": "0xCDfF6ee2cD65E8F7ED1ED87A9E85Ec58BFf1B8c9",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "ctsmart.eth",
+		"score": "8.209"
+	},
+	{
+		"donor": "0xC0fd6fF0fA5B3Da3b2ED6C3Af5277d756696c103",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "tomyanderson.eth",
+		"score": "27.204"
+	},
+	{
+		"donor": "0xC435fde768eBDa4446F8F70356083ee3596A11B0",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "moodocha.eth",
+		"score": "10.360"
+	},
+	{
+		"donor": "0xC7117BCFCc78123b166513c99d673D7Acc76b2fe",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "binanceslab.eth",
+		"score": "9.192"
+	},
+	{
+		"donor": "0x35Fa30FFAcae0b7836105cD750204B39C5d1eFF7",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "hani6672.eth",
+		"score": "13.840"
+	},
+	{
+		"donor": "0xb4F4642997Ab9952761ff2f00D12B251285fA867",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "unknownstranger.eth",
+		"score": "20.078"
+	},
+	{
+		"donor": "0x2188fFB3e555905Ab315E9230b614247bd796038",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "sergeu.eth",
+		"score": "39.010"
+	},
+	{
+		"donor": "0x96104ce8A2CB031f8771ce872d3c0272EaCFe3AA",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "whitecauliflower.eth",
+		"score": "3.895"
+	},
+	{
+		"donor": "0xF92A9C4F76681b6b51ce9d132D816b53070e6b8A",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.103"
+	},
+	{
+		"donor": "0x949a35296DA83c44c1cc49ad29A476E1652d49ec",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "\u062f\u0625\u062f\u0625\u062f\u0625.eth",
+		"score": "9.074"
+	},
+	{
+		"donor": "0xeB2eB5A91CD6D63f53e99dBF4b21811d880a62b3",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "sybilsiscancer.eth",
+		"score": "25.124"
+	},
+	{
+		"donor": "0x65EC9dCd533bF39DCdc4326Cc2929eAaC5Df0574",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "20.494"
+	},
+	{
+		"donor": "0xe30Ae84348254f3B5871CbdCc56E5ed0185d6443",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "29.234"
+	},
+	{
+		"donor": "0x6d6368D68c1d0ec553f90AD97cBB2252d98471bB",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "30.765"
+	},
+	{
+		"donor": "0x651817b6B7464B61C6c6Ef87dA2BC84EE0E64377",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "0x0ethereum.eth",
+		"score": "31.339"
+	},
+	{
+		"donor": "0x8D3bc1Bc025f1B5c66dE75b961A1797D281810fe",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "layerflow.eth",
+		"score": "39.292"
+	},
+	{
+		"donor": "0xfD3843B18A7e69aC64AA3886dfE255D18669AAb7",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "90915.eth",
+		"score": "17.595"
+	},
+	{
+		"donor": "0x8BD4608ab1bF59c4D42E0234F62E5b2C2C4B6fc1",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5E8385F28B656ED797DC5a4D402b73BAA596164e",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "pamelah.eth",
+		"score": "10.272"
+	},
+	{
+		"donor": "0x885D2358aD616F0BDFFFe802b8b187ae1d4dE12B",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "f0ldnever.eth",
+		"score": "9.357"
+	},
+	{
+		"donor": "0x531370714a7A29b5CE0395179E0d51b8563dF998",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "9.864"
+	},
+	{
+		"donor": "0x53a304524e6dcfad9Ead3C48751a0Daf832B412B",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "mrcryptolife.eth",
+		"score": "35.712"
+	},
+	{
+		"donor": "0x552B6Bb9fecCdC82D479e2dd185F8D2f57B9b623",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "11.762"
+	},
+	{
+		"donor": "0x55f070C7F6bB99Be3DBB079975422de692AAf68a",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "12.143"
+	},
+	{
+		"donor": "0x4c7F30364e4EB3f7AB5f9A7aC82d6f92D3DE8a5b",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "votuanvu.eth",
+		"score": "34.868"
+	},
+	{
+		"donor": "0x0A33B154E19742E8107D9CdfE956F5d59dc06e4a",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "hothodl.eth",
+		"score": "21.065"
+	},
+	{
+		"donor": "0xeE6002C8913A1854372104de97cD32c21b295ebB",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "majorzeman.eth",
+		"score": "8.748"
+	},
+	{
+		"donor": "0x62ac1ff6f3282de72209B3610503Ac26779a03B0",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "jeuwan.eth",
+		"score": "20.092"
+	},
+	{
+		"donor": "0x0A1d32EB10E6fEcA301cECc5fad343bC6d2B1928",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "jamillah.eth",
+		"score": "38.970"
+	},
+	{
+		"donor": "0xeba789e3eb46D8bb2185E55E11E8b303872F36dc",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "27.345"
+	},
+	{
+		"donor": "0x7f1720ec387BEc6985DE7FA87bC720d118a9AF86",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "aptosofficial.eth",
+		"score": "25.723"
+	},
+	{
+		"donor": "0x602D1BbF1760783fec1eEF8a4a48F34a18861Cd7",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "elijah8.eth",
+		"score": "6.849"
+	},
+	{
+		"donor": "0x60057786842AFf287eBb0bbf96E082733A4a667f",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "hottiebabegem.eth",
+		"score": "35.406"
+	},
+	{
+		"donor": "0x0623A237b9a095844733B2451eF4a6776AEfb323",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "zizi5.eth",
+		"score": "15.745"
+	},
+	{
+		"donor": "0x09C6230e43aCDF4aA89CCAB18C5cFD3F780459B7",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "dtsphin.eth",
+		"score": "30.285"
+	},
+	{
+		"donor": "0x763a81e277A64a5819aCEE11464780398735c2f1",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "pettrov.eth",
+		"score": "44.260"
+	},
+	{
+		"donor": "0x06357073254a61be6fa67eC5b027ee69a3E57a4B",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "crypt00dada.eth",
+		"score": "34.161"
+	},
+	{
+		"donor": "0x8a996652AaCA7D7F910cD8339612033C55C354fC",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "6.016"
+	},
+	{
+		"donor": "0x0F9D5935d6fAD2bE685f645cCac09618c3752CA0",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "25.871"
+	},
+	{
+		"donor": "0xf2b83beB7a0794E3F9D888f2F77a9f1b50b8C58F",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "zachary5.eth",
+		"score": "4.832"
+	},
+	{
+		"donor": "0x9084ac2ad37C6Dc9B01691e45849b27Eb0455bf4",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "viragjoshi.eth",
+		"score": "35.453"
+	},
+	{
+		"donor": "0x926bec22935E703fd94cBC6BbdB417D2ba4A42E2",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "snorarice.eth",
+		"score": "35.217"
+	},
+	{
+		"donor": "0xd7c79f6823aCC67992FF027A8f028Af40061E856",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "issaaac.eth",
+		"score": "4.321"
+	},
+	{
+		"donor": "0x6Cd2Fd7B227F662E6A7601486949EBa43eA73388",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "apexpredators.eth",
+		"score": "38.655"
+	},
+	{
+		"donor": "0xfe2559da61C7cF59efF4018041631973BF85bA1F",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "30.774"
+	},
+	{
+		"donor": "0x4D90cd83c0Aac70628607a3b808aC452a06c155C",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "makebymoney.eth",
+		"score": "30.249"
+	},
+	{
+		"donor": "0x6E61dF106c59364FE924a921ccfe320f3fbCE523",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "amir400.eth",
+		"score": "6.860"
+	},
+	{
+		"donor": "0x6B183BA7A8F0A6890841BBE609390988f6BFfF23",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "ibraad.eth",
+		"score": "36.644"
+	},
+	{
+		"donor": "0x6F75070F110B1d5F9c8D3448ebe0600472664CC2",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "metamaskcompany.eth",
+		"score": "24.622"
+	},
+	{
+		"donor": "0x0e1316cA71DA858a8c167E85c71A56a3a0c484b3",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "flokeyyy.eth",
+		"score": "27.476"
+	},
+	{
+		"donor": "0x6a60056dC641b1F3a94449566aB6B55fC3A1d74E",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "34.761"
+	},
+	{
+		"donor": "0x8e36Ca3054Ca8c3863C535A26454cc70ec54e8af",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "25.022"
+	},
+	{
+		"donor": "0x9480fc2A527BB0F0e5E6A3CF2922BcD123B71302",
+		"total_usd_value_at_time": 1.0,
+		"donation_count": 1,
+		"donor_ens": "custardcake.eth",
+		"score": "25.456"
+	},
+	{
+		"donor": "0xF25946398F7db7Bd100A879d03968C185C6b10C2",
+		"total_usd_value_at_time": 0.7,
+		"donation_count": 1,
+		"donor_ens": "ayennn.eth",
+		"score": "35.048"
+	},
+	{
+		"donor": "0x972cA57D2a3B251d3Fa7Df440B43D7a9441d70fC",
+		"total_usd_value_at_time": 0.6,
+		"donation_count": 1,
+		"donor_ens": "lunarastro.eth",
+		"score": "10.365"
+	},
+	{
+		"donor": "0x3D660965F0baCa84059804CB78C045521950093c",
+		"total_usd_value_at_time": 0.5,
+		"donation_count": 1,
+		"donor_ens": "cryptodnx.eth",
+		"score": "20.966"
+	},
+	{
+		"donor": "0xDA5d1ccB544cD97EFc3675Fb0033cA2E7E7ce102",
+		"total_usd_value_at_time": 0.5,
+		"donation_count": 1,
+		"donor_ens": "marziamarzee.eth",
+		"score": "20.536"
+	},
+	{
+		"donor": "0xB32C66331a38B0fEf727A0a5ce9E57C57a251a26",
+		"total_usd_value_at_time": 0.5,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "40.075"
+	},
+	{
+		"donor": "0x0eFed32427D9A28AD8433dbc72663c20bA091AfA",
+		"total_usd_value_at_time": 0.5,
+		"donation_count": 1,
+		"donor_ens": "cryptoneel.eth",
+		"score": "22.574"
+	},
+	{
+		"donor": "0x58f0B1c5E44ACcB8BB7c1259d0f21e96A43E3ca4",
+		"total_usd_value_at_time": 0.5,
+		"donation_count": 1,
+		"donor_ens": "04057.eth",
+		"score": "26.143"
+	},
+	{
+		"donor": "0xfeFCF1081157C65fD2f43F6ea5086212eA48f7f2",
+		"total_usd_value_at_time": 0.4,
+		"donation_count": 1,
+		"donor_ens": "sadiajaba.eth",
+		"score": "2.557"
+	},
+	{
+		"donor": "0x96C0E7db5028433D8e729499AAEBACc32Fe391D8",
+		"total_usd_value_at_time": 0.4,
+		"donation_count": 1,
+		"donor_ens": "888iv1224.eth",
+		"score": null
+	},
+	{
+		"donor": "0xd665C76587f1256CA9C2AA353Bc3dF245F769c56",
+		"total_usd_value_at_time": 0.4,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "4.721"
+	},
+	{
+		"donor": "0x0FB1AFed7Af021dE77F0c9ba2b76349A7847512B",
+		"total_usd_value_at_time": 0.4,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf0A166559dd2ba169058947deC0882c8966BA8aB",
+		"total_usd_value_at_time": 0.3,
+		"donation_count": 1,
+		"donor_ens": "honko777.eth",
+		"score": "12.452"
+	},
+	{
+		"donor": "0x58Ce6fC03561961C9947ba1FfffB9146Bc75d903",
+		"total_usd_value_at_time": 0.3,
+		"donation_count": 1,
+		"donor_ens": "irnobody.eth",
+		"score": "57.229"
+	},
+	{
+		"donor": "0x1C9DF61bAdbDd8933f6F3afA6b89A8ECe86A8352",
+		"total_usd_value_at_time": 0.2,
+		"donation_count": 1,
+		"donor_ens": "bobibobibobi.eth",
+		"score": "28.260"
+	},
+	{
+		"donor": "0xf0e6198A8E475d4B8Cbc677cA9239A143e3bF562",
+		"total_usd_value_at_time": 0.2,
+		"donation_count": 1,
+		"donor_ens": "verya.eth",
+		"score": "42.021"
+	},
+	{
+		"donor": "0x86369231aA60Bf04b6b66DEf20f38c497e46Cc2E",
+		"total_usd_value_at_time": 0.2,
+		"donation_count": 1,
+		"donor_ens": "terpd.eth",
+		"score": "26.934"
+	},
+	{
+		"donor": "0x9103c02Dcb6b9FD5529ED63B2920E87BD270ea79",
+		"total_usd_value_at_time": 0.2,
+		"donation_count": 1,
+		"donor_ens": "ystrem.eth",
+		"score": "24.149"
+	},
+	{
+		"donor": "0x9E568b0Bde2EA802A97E3Fc216f6C0Af1c3A9044",
+		"total_usd_value_at_time": 0.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "3.689"
+	},
+	{
+		"donor": "0x4f2999Ecc2e588557407ef66d4c268D08E5b0d2C",
+		"total_usd_value_at_time": 0.1,
+		"donation_count": 1,
+		"donor_ens": "alistrov.eth",
+		"score": "43.290"
+	},
+	{
+		"donor": "0x9a631D9183D0a2eD711B00CCFd2760ec57400552",
+		"total_usd_value_at_time": 0.1,
+		"donation_count": 1,
+		"donor_ens": "lineasupport.eth",
+		"score": "4.420"
+	},
+	{
+		"donor": "0x2A7CA3e255E3ef1501B78Dd2D5CEb57f9e372813",
+		"total_usd_value_at_time": 0.1,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "1.552"
+	},
+	{
+		"donor": "0x05d29C7E3B1b3e37500Ad0f39C0e1373B31cdcD0",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x216eAD881A9e1f0bA8e56d8B655F7881850Cffe5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x078Ee54f9177B87B433c3Ac75F324A9436C604cB",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf5EA357d901aa2C27a37238bA183De9b6C3c1a90",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xF92f4bDEF66b619dE3db6F626C1fE4cb2bB3cCf6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x22297404F0E5079efA9f642B43976ba6163ddCD0",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "marcgd920312.eth",
+		"score": "46.040"
+	},
+	{
+		"donor": "0x0458921026a325908F9FFbA9F1d19407ccFD9FbD",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "maximph777.eth",
+		"score": "7.330"
+	},
+	{
+		"donor": "0xF99917Eb97b5551F0Ce23466B6F00E5FadcdF97D",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.016"
+	},
+	{
+		"donor": "0xf63c1e6627D8485d017CaE7e3aA413db7B5Ea67c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xa253f7aDd23eC2cBfAaAf8e9FB8dF0493937Bfe6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xFE59E17c334E469dafd71D12475085ae23a1c8ef",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2585B45Ac2aA8B3e4D05eB7780739826ba0649bb",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x049d75f2882e399f11950706825CE14E8ff840f1",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2521255a8d29a6692866a75246615Ea1A992c76A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "ezpro.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xa79a5Afb654E286C86c0306A29Db3C4B31E2946f",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xfD871269226F3a1182421206F9C8B819Bb7b7870",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf6F4e9f50A928E216854594fFb1fb9339D588f62",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf6b1B6aAF06a2F86e8c49bc8Fc0077f0738093Bb",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xaC8338996Ce9fbEbd4401d820c08D7fbF0C6D1D2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.016"
+	},
+	{
+		"donor": "0xffB7CACB39E78E677Ec25AB302228Daec4874607",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x22Ec1e3a4a3b49c2b569f4e5D83ed99852932624",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x059020A1757bDCDd8559C7c7e2D9ce2BF4B0c5ab",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xaE2EdeB676dDba8B4C865d46353237cB3821ED13",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xfe30c8716a18bf771289683Ee816a9929C4e5d09",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xaF3652865406111CB1379458375d635B172cb1Fb",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0561d2BcFB752fADaA12A061105aCC2B8D1b14F8",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0494d303d48e1B3Ab98F140d7485C5294Dca8424",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x09af196703843c81761Bf7d1e1DdBB4fd915A688",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf54121Cf4ae909b9EB8f4449E3a404ee4f051433",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xe509848dfF6E8E0512C5EF268fA5A693245467Be",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xcde94B9a56c56997666b3bfc897a47eF08D1D0a2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0a01d97d2085A16Ddb2532BB865f658076D20044",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "jacoz.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x0d0Baa642280529Bb204d78aa1c97f2b41350A09",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0dAc8771c15c0433510Fb5d7E0793316BA8f7153",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1812C5330dDFe250B8dF4EE3aCFAE40Eb66A2D03",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xde4D4DEaC758d23d92652ed295823D506C631137",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x17655364CDF82569427B96De193BAd48594b1847",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0dbc8Ac65A6793494B4972F3f93C08732e2Fbe72",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xd0267E5284BCcE1ad69AD214925506EA9245B265",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "hadoo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xdb97D8B06a6753c1ec2327E6a052A0F49A463d4b",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x175f0bF91c06E6804f0C9979B824e8EF94c09A75",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x169c8768B2cfE95B141fdC2006473f5149d80968",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x28f52Df2a9484B065b1446823e2c0491e89b1A7c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "dozoo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x15FCce13F5342dA1857E6259d1B4Fd46472c4895",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x14578e09b08A006eC69e4688224c5502724555A6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x13d91FD6a26fA2385b25425D7CA08317619a8dA2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x11838845F2011a5a753E114e5599E3cb6a2456Cc",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1087a9d8905445a96cB21906DDbB60BdEf34f989",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xd503AEf6176603B24E1c7Cc067DA402aCd0C90ca",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xd54471AF1d0b5998C422B5A9fC10ad06080b9D23",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0f5e78a59fc1Bc20a15D8D763720184156C0b9ab",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xcda376d0ac8B9f3270C8e5267d21c9a86BBc79dC",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xe540b5aB5FCf9d003Aeb806825C7aCD1f9928111",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x216B4Fa6B038BbEf32dC4B610298D4E3de220206",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x19884650e7E66c5138Ad2E921Edc8B2071EbfE2c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xb7EB2afccE362B1a505DA27d5143B806960BFeC6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x08eAE0da81A00b3924e5834E114bbB3d49218992",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x205A65Ab96B0a8EfE164979f4362Bf7ed3fCb5ef",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x20571290Fb42f94a414d35ae8Ec8348B2D73BD85",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "21.830"
+	},
+	{
+		"donor": "0xba9d848D9eA6EBa44DE764331b676B5E9511AFAD",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xbbF1cB00836186860604732f69FE7D96810f2118",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1caA671FBDBDc5b3B27Cd038F0ce2744eC3f8430",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1bAab40e26283A0e06D5e729c5Cc981a10fd652e",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1F2DC8633Aeec922049770CCD261BD7f0f259183",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xc131c95bca3b10fD18e548613DE815beC1318EB5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1ECb0c1e53f94532B9F65f332a679d9BC2F61B8B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xf09F411353c51AA4f3a57bB7c8230097c4C37A77",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xc54572aa349f658Bb2e442b58a6230C65778Cf97",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xc5f2117D35C4586a5f0B22EdE2Df44e43463Ef86",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xc60104EFA5F0Cac9928fD3c85eb3671F9055a16e",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xeb289539EFFD389046EFf20888516c522F9C31A1",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xeC741C5C6F87f24F33c5260A916e56852bd285cE",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "liquz.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xc746AF493508BB4e0ffdE11109227038123B3A8c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xc8827AB25f38F96f97868a02245b00C18da4F44a",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x0C7ff57256F2694A34CB2E9297E28C57B16fAb3d",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x1D88b0a88d7ED4118a99133c98D319ceDD2F8780",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x682B48341F717ac83f4229a8dbB26B349AB5BdB1",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xC09bdC02a14452632A12A4A6766321ae755939cb",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xF720Bbc350E61A066EE12d0B92eF3620f56DFBD5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8b06928c2eaC625Fb955cCe30601A744E112ECF3",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x84110cE89648cA208e8372D410aC6d6a1bbE4e1B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "mikya.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x56140f15E50C2a15e532446CC3c33FD6b4ee6dA6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8546D6758F2B5DcA6F88a44647E5Ef4d315d8281",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8630fbD88346561a58BF1Ad901Fb128EA3521925",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "jeremmm.eth",
+		"score": "4.832"
+	},
+	{
+		"donor": "0x541A75eE9D5d15EC623738EE812bA28Cc511202B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x87c79D46aD49312E8D3187e87E7449E85ec187dB",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x89D074C462B262DDC01A6F9D1cEC5a48E2e2C312",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5177c6876bd0B12B42Ae1705adEfd6C5CEE8bF26",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8C1D1373b5186abee29b968Af1f15df479D90Ea3",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "carko.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x8CA6ce4BB30AA57831F3Fa50De2B42BD92b8E17A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4e8155e5DeEB08c477e387Ce6b098EFd5BB95a29",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "nacoo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x8E47fCc4B80B0C332F6318e3D457d59Ae8D24351",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4d8D9A08C201f35CaD7C5A8817a0Ec8A0869Da32",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "equpo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x8FFbE0B2224580B404b4Be14e777Ac2F30aE5ae8",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4Fba877162d24ee5D3a85776bD6c5Ed3196D655b",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x28f96109dDA942B4DCE236709f995a730929B7B7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8fA3008c763215462b61F368735Dd69eDeBaC267",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4E1509b1e20E47aeD7819ea54CCD162D5b910BA9",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x91E954c825B4949f6658C51Faf4b3538Df355b05",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4D2f39950Ce8449506178a4458A4F051f1e10f42",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4Cb5DDCFB228689D70FFEE3d4a27942E73A05962",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x4AC50687cbc185a36AdAbab167446f0b98108C98",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x95718bc72d39D136CF96fF74E832497200584801",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "22.200"
+	},
+	{
+		"donor": "0x4A6cA7C4E8E074686fF631393eF70dC059E9F4f7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x966179C89f2776b9629f64F633FEa6728571B286",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x9683a687dc2d9233bf322f591F7adD2bd0ba855e",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x975ac5955FC6b86b889615b24dA63fb2Bf73f815",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x97CDB6a298a2573B78B0CB3a8333130921661950",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x97D4Dfc7DB1f4B805b11D7eb5aACD18A7e1B9951",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x48156ed3B04E915F07e373411F13339c8314A0E5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x561872eFD3378f8C2a59905d75Dc429a701966Ca",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x839BB6d3870682C8F30e7ff2E6d0751C509002d8",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x8251081440B5C5D7E57B6cadA5EEcD7B01d30464",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x56Db78fBF9385c4bC58c8C62E26136E7A18a3B7a",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": "2.477"
+	},
+	{
+		"donor": "0x67BcA85c0d90AA6F3073B9F534aa9Cb033420a4A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6B89911D0a6214Fa70c15142e7F38570Ff4358c2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6635928182A53Ce17887EcbB771632bd9aB02461",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6E16A27c7D37ED02a2e247582ed8C228f341acB2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6EabFBAFC9C4eFb286aD1aA25fcd0927DE531041",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "kakav.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x6aBbA8F3B5c8C130a89fDEB175B9ADB773d160AC",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x65f7b299820b2122fbDfaD7514d25DF675695cA7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6e18D80410DeF699527d0f33c35ebF22DD0B1ED7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6e89720a351445ed8DD8aC6717Aca9Dc3a7d33Ca",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x6f7aac70368A0449249674d19b759a77c767bEc6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x7035369f1694C7ce59D2DA7c97eA5FeA4e6119A6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x707245670613aD9C61D4c0ec105CC8f8Cbda5008",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "bolax.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x62D7F5B287cA7B3b21727ac6f0F145B2b50ef045",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x725B7fB638EB496456d4501c27D789848A93fcEa",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x73BE6E8441D0c36AbeC1c27E2145194E46FC78d0",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5c1dfd7fA8A4e3189CDcCaD368b3d5FB9561A6Ab",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5c0F802dcf318eE3f83853ca1291298E453670bF",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x75Db6A14C725f58124EfD5F73259a7bC9740BDc2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x772f61E7a39F8FDE768f6f7445e3d2B9aac4A6eD",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x006CE9cA89d760F8F3669d9FA02E0E683eeBFB34",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5F2d742757c8CFacB242731e584BbaC97d2cb439",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x78C81707dB0B765a8aBbA13938B021C19cAA6710",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5D7D11ec92d43620151DF6DE4093a9edDA34a2e5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x7B3420a5e6F5059cEfF454770FE731BFbc99150C",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x5D373FE25aAFe79B568f079E4bD06B38C55e04f3",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x7B5A3B26F30D03A47c7bC7ef5e838A008e1fabff",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "ibisa.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x59E69C3D546bd65c1eacE18640a117834a47c308",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x58d2B9f28EbEAfd8e68F6b4F092ccB740A88524A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x57789c70Bf8b86a610dF0e71F8a9F347fd7F3900",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x46a6E94dE88e9D7B8376550AfCF7108a73B85e4c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "amanz.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x982431e37058580b7a0dBbC486098C16fFc55012",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 2,
+		"donor_ens": null,
+		"score": "1.445"
+	},
+	{
+		"donor": "0x98e7A87d7907D9D1DB15C1144D5C4d3757893098",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xC1D668753f9b858335FD657999c0105cece8E80c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xC561e708947a4693215b5f0BbA7bDdEdFf5e7Af9",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x36EDD70c002CcE44215b008cDD51B9DD4ecAf5a3",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xC96aE0AAcDAb61e38dB2681cB25fa5Fee2500816",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xC9761EDA0B7590d30BEdDcF055009840364E253E",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xCAC9831e2c2deEAbc78561F23BEC7345600ea68b",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "proez.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xCB30653F8eF99296954a535b05F9159326f6802b",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xCb8c2FC80f4a60eE5008df95fE6638c3c8eae012",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xCbfb25027bc84571222569a18A78528bF8E1959B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "happyjack.eth",
+		"score": "8.339"
+	},
+	{
+		"donor": "0x31eF509A6706416c1C80347A8273bFF7b756445D",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "2ez4u.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xD3E70B086C035986e4c28dBAeB7742968b6C5365",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x31736853E127617a2E87667729C8FDD701345db9",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2d79858E797583BfE6E8E67711DFD7c7A5eFC2C8",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xDD4890DF605F58536933Df3a7655Af4087681F74",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2d190d14c58B2Aa323dd9b0f96c4AD3B8f756dA5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xDd7B10a4E478312C7fcaFf10650a2b2C63883302",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xDf20935a7845A15811C826E2039a4dc712961FF7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xE3B2ED4896C75Fe01ba005ad31fF2A6842ca3743",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "yolot.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xE4DBc08767bdce3bD9dA6cD0814Bc399c2a4ca1e",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2F7a37c99c749d842aC929a37034e6D4FB0E1cB6",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2AEA819d22e8629470bAb64463633D69Aea78073",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x2A8F65AB497a67E87482a4e6A0F61109b7d3488D",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xEdb38e8775d4eB58e0e496849a86d189a0Cab5cC",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x29eb75397Cb8df6550078611A882Cef9e879A2dD",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xF1D21802F76795E4eA83a365A401dABAabC6610c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x29F4559C7d0C539e5cD1063F2844121D0656a69b",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x299863062D828E93bF2C9D776c97555D862856D1",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xF44cCF2CF4b4A396EE08703f4D4edeb151dd7f66",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x296f0fC477903be216d062374Aee3Af744b9D35D",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xF5f1066C48aB3CD2045adc1b3355091C516d85b9",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "nvmgo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xC1DF05FCF8c75B1Bc606313A666548A94dD4854C",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x376bf71D282365F2f6fC37eef2666d7b1C580957",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x99630139c8e333Eaa1eD353132f8E94D32374635",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x37BD0734D216eBB97F797D6a926889Dda9385E67",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x996D9103845EF9eBFBD1135E6daAcFa61bbD978A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x99e6B6D771350624F5466148f00e0Be3Dc3f8BC7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x9B02350f818EcBd1775fDc7539D474Ef3034F2D8",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x44c0860F3A657Bc2731A41456bd954c8E47B3eb7",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "ssmvp.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x9D7FF7D2651Bc1E97dA4382d3C127E50cA7a691A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x43781Fce790be55A605c2b66aC03C972ED949294",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x9dA0A4A29Cd61f806C309Ea6976C954076eCd13A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x3dB516Ef16b3A247c9f0BEdF084fb1A91e118d36",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x3E4216bed5aBCbA7bD0ed90899b6823A3CD93DC5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "fomoz.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0xA388157FCa9b0Ad4E25f670a43959103C992021F",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xA711497989EA64b37D5aaF150cB39eFD453d719a",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xA8FB8AF3D2BD1bbF1c6A6B8e9D7DA877aD88c288",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xA98C20Df04c6bb7E2d998A9eFEEBf4799D937E1A",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x3B3A85493B218E7669Ab27C7Bdf6EfBe90fbd58B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xAf40f5f922A470a397f3B3b2bCBF39D82d396c50",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xB081Cf2C0eAf9620876a2af970b68e55CE9EF1ca",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": "24.016"
+	},
+	{
+		"donor": "0xB130b741c7ef0Ba7C9D7a7Ee8f1b2a8B498E772c",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x39b89c6f23c8D88Fb17d2d9F8E0f5DDF7f51ee28",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": "godoo.eth",
+		"score": "3.912"
+	},
+	{
+		"donor": "0x394837311b3F66b97b9Fee095c0d23b85b18970e",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xB4096167CB0c9a22F6968553bfbAf911B2e2DC49",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x3834f89772b2bD5bf68C90FACA4c0fd9941F16f0",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x3807553100E93a4b50df5c72f874174E6C062F04",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBC8159fBAE39bba2eFAC2740C620126Fb3F5f483",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBCB569D9552Cc0E137Bd4914942C1fCa02F6A3D5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBDDbd5eC873B2F928484c56f61c07826385fe530",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x37C148d2e27641d4C48922728ce1A30591b3b95B",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBbc7bCBEB1E91057B057131976CAb259DdbFcbF9",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBc45D8f26a4fE2f871fB6a772B97ECEf7963fEd5",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0xBd3aB157d4b3E0d35CE2215c5CF5ECA54262E8b3",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	},
+	{
+		"donor": "0x77c05FDd88207183c535F5CD3621aF33c64021C2",
+		"total_usd_value_at_time": 0.0,
+		"donation_count": 1,
+		"donor_ens": null,
+		"score": null
+	}
+]
