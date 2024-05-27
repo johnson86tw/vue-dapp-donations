@@ -13,7 +13,9 @@ const headers: Header[] = [
 	{ text: 'Matching Funds', value: 'matching_funds', width: 140 },
 	{ text: 'Crowdfunding', value: 'crowdfunding', width: 140 },
 	{ text: 'Unique Voters', value: 'unique_voters', width: 140 },
-	{ text: 'Matching Per Voter (Avg)', value: 'matching_per_voter', width: 200 },
+	{ text: 'Matching Per Voter (Avg)', value: 'avg_matching_per_voter', width: 200 },
+	{ text: 'Passing Voters', value: 'passing_voters', width: 130 },
+	{ text: 'Percent Passing', value: 'percent_passing', width: 140 },
 	{ text: 'Project Page', value: 'project_page', width: 120 },
 ].map(header => {
 	return {
@@ -64,14 +66,14 @@ const rankingOfUniqueVoters = computed(() => {
 const rankingOfMatchingPerVoter = computed(() => {
 	const sortedData = data
 		.map((item, index) => ({ ...item, index }))
-		.sort((a, b) => b.matching_per_voter - a.matching_per_voter)
+		.sort((a, b) => b.avg_matching_per_voter - a.avg_matching_per_voter)
 
 	const indexOf = sortedData.findIndex(item => item.project === 'Vue Dapp') + 1
 
 	return indexOf
 })
 
-const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumber: number): string => {
+const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, _rowNumber: number): string => {
 	if (item.project === 'Vue Dapp') {
 		return 'highlight-row'
 	}
@@ -80,7 +82,7 @@ const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumbe
 </script>
 
 <template>
-	<div class="mx-auto max-w-[1000px]">
+	<div class="mx-auto">
 		<!-- Statistic -->
 		<div class="flex flex-col items-center">
 			<div class="py-5 flex gap-5">
@@ -129,7 +131,7 @@ const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumbe
 			:items="items"
 			:rows-per-page="rowsPerPage"
 			:body-row-class-name="bodyRowClassNameFunction"
-			sort-by="matching_per_voter"
+			sort-by="avg_matching_per_voter"
 			sort-direction="asc"
 			hide-rows-per-page
 			hide-footer
@@ -143,8 +145,8 @@ const bodyRowClassNameFunction: BodyRowClassNameFunction = (item: Item, rowNumbe
 				<div>${{ crowdfunding }}</div>
 			</template>
 
-			<template #item-matching_per_voter="{ matching_per_voter }">
-				<div>${{ matching_per_voter }}</div>
+			<template #item-avg_matching_per_voter="{ avg_matching_per_voter }">
+				<div>${{ avg_matching_per_voter }}</div>
 			</template>
 
 			<template #item-project_page="{ project_page }">

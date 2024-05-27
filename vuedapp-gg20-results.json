@@ -4,7 +4,9 @@
 		"matching_funds": 29637.5,
 		"crowdfunding": 3308.53,
 		"unique_voters": 1145,
-		"matching_per_voter": 25.884279476,
+		"avg_matching_per_voter": 25.884279476,
+		"passing_voters": 759,
+		"percent_passing": 66.288209607,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/3"
 	},
 	{
@@ -12,7 +14,9 @@
 		"matching_funds": 23281.82,
 		"crowdfunding": 4042.45,
 		"unique_voters": 1617,
-		"matching_per_voter": 14.398157081,
+		"avg_matching_per_voter": 14.398157081,
+		"passing_voters": 1067,
+		"percent_passing": 65.9863945578,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/41"
 	},
 	{
@@ -20,7 +24,9 @@
 		"matching_funds": 17741.54,
 		"crowdfunding": 2388.91,
 		"unique_voters": 738,
-		"matching_per_voter": 24.0400271003,
+		"avg_matching_per_voter": 24.0400271003,
+		"passing_voters": 528,
+		"percent_passing": 71.5447154472,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/12"
 	},
 	{
@@ -28,7 +34,9 @@
 		"matching_funds": 16518.84,
 		"crowdfunding": 3090.65,
 		"unique_voters": 198,
-		"matching_per_voter": 83.4284848485,
+		"avg_matching_per_voter": 83.4284848485,
+		"passing_voters": 156,
+		"percent_passing": 78.7878787879,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/33"
 	},
 	{
@@ -36,7 +44,9 @@
 		"matching_funds": 16243.91,
 		"crowdfunding": 1691.8,
 		"unique_voters": 654,
-		"matching_per_voter": 24.8377828746,
+		"avg_matching_per_voter": 24.8377828746,
+		"passing_voters": 474,
+		"percent_passing": 72.4770642202,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/30"
 	},
 	{
@@ -44,7 +54,9 @@
 		"matching_funds": 15978.18,
 		"crowdfunding": 5413.62,
 		"unique_voters": 545,
-		"matching_per_voter": 29.3177614679,
+		"avg_matching_per_voter": 29.3177614679,
+		"passing_voters": 390,
+		"percent_passing": 71.5596330275,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/56"
 	},
 	{
@@ -52,7 +64,9 @@
 		"matching_funds": 15915.01,
 		"crowdfunding": 1999.64,
 		"unique_voters": 425,
-		"matching_per_voter": 37.4470823529,
+		"avg_matching_per_voter": 37.4470823529,
+		"passing_voters": 294,
+		"percent_passing": 69.1764705882,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/14"
 	},
 	{
@@ -60,7 +74,9 @@
 		"matching_funds": 13306.72,
 		"crowdfunding": 1442.28,
 		"unique_voters": 207,
-		"matching_per_voter": 64.2836714976,
+		"avg_matching_per_voter": 64.2836714976,
+		"passing_voters": 169,
+		"percent_passing": 81.6425120773,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/20"
 	},
 	{
@@ -68,7 +84,9 @@
 		"matching_funds": 12276.94,
 		"crowdfunding": 2456.26,
 		"unique_voters": 1185,
-		"matching_per_voter": 10.3602869198,
+		"avg_matching_per_voter": 10.3602869198,
+		"passing_voters": 734,
+		"percent_passing": 61.94092827,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/58"
 	},
 	{
@@ -76,7 +94,9 @@
 		"matching_funds": 11238.03,
 		"crowdfunding": 1307.56,
 		"unique_voters": 467,
-		"matching_per_voter": 24.0643040685,
+		"avg_matching_per_voter": 24.0643040685,
+		"passing_voters": 342,
+		"percent_passing": 73.2334047109,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/43"
 	},
 	{
@@ -84,7 +104,9 @@
 		"matching_funds": 8806.21,
 		"crowdfunding": 773.03,
 		"unique_voters": 190,
-		"matching_per_voter": 46.3484736842,
+		"avg_matching_per_voter": 46.3484736842,
+		"passing_voters": 160,
+		"percent_passing": 84.2105263158,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/24"
 	},
 	{
@@ -92,7 +114,9 @@
 		"matching_funds": 8637.13,
 		"crowdfunding": 833.32,
 		"unique_voters": 143,
-		"matching_per_voter": 60.3995104895,
+		"avg_matching_per_voter": 60.3995104895,
+		"passing_voters": 120,
+		"percent_passing": 83.9160839161,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/15"
 	},
 	{
@@ -100,7 +124,9 @@
 		"matching_funds": 8459.69,
 		"crowdfunding": 711.21,
 		"unique_voters": 214,
-		"matching_per_voter": 39.5312616822,
+		"avg_matching_per_voter": 39.5312616822,
+		"passing_voters": 185,
+		"percent_passing": 86.4485981308,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/42"
 	},
 	{
@@ -108,7 +134,9 @@
 		"matching_funds": 8287.13,
 		"crowdfunding": 988.26,
 		"unique_voters": 433,
-		"matching_per_voter": 19.1388683603,
+		"avg_matching_per_voter": 19.1388683603,
+		"passing_voters": 289,
+		"percent_passing": 66.7436489607,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/4"
 	},
 	{
@@ -116,7 +144,9 @@
 		"matching_funds": 8220.15,
 		"crowdfunding": 7384.92,
 		"unique_voters": 693,
-		"matching_per_voter": 11.8616883117,
+		"avg_matching_per_voter": 11.8616883117,
+		"passing_voters": 417,
+		"percent_passing": 60.1731601732,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/27"
 	},
 	{
@@ -124,7 +154,9 @@
 		"matching_funds": 8097.76,
 		"crowdfunding": 1231.48,
 		"unique_voters": 660,
-		"matching_per_voter": 12.2693333333,
+		"avg_matching_per_voter": 12.2693333333,
+		"passing_voters": 466,
+		"percent_passing": 70.6060606061,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/18"
 	},
 	{
@@ -132,7 +164,9 @@
 		"matching_funds": 6410.32,
 		"crowdfunding": 1109.17,
 		"unique_voters": 244,
-		"matching_per_voter": 26.2718032787,
+		"avg_matching_per_voter": 26.2718032787,
+		"passing_voters": 176,
+		"percent_passing": 72.131147541,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/37"
 	},
 	{
@@ -140,7 +174,9 @@
 		"matching_funds": 5792.44,
 		"crowdfunding": 446.2,
 		"unique_voters": 96,
-		"matching_per_voter": 60.3379166667,
+		"avg_matching_per_voter": 60.3379166667,
+		"passing_voters": 79,
+		"percent_passing": 82.2916666667,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/8"
 	},
 	{
@@ -148,7 +184,9 @@
 		"matching_funds": 4811.65,
 		"crowdfunding": 497.34,
 		"unique_voters": 211,
-		"matching_per_voter": 22.804028436,
+		"avg_matching_per_voter": 22.804028436,
+		"passing_voters": 172,
+		"percent_passing": 81.5165876777,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/16"
 	},
 	{
@@ -156,7 +194,9 @@
 		"matching_funds": 4741.89,
 		"crowdfunding": 968.6,
 		"unique_voters": 683,
-		"matching_per_voter": 6.9427379209,
+		"avg_matching_per_voter": 6.9427379209,
+		"passing_voters": 423,
+		"percent_passing": 61.9326500732,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/19"
 	},
 	{
@@ -164,7 +204,9 @@
 		"matching_funds": 3989.54,
 		"crowdfunding": 425.44,
 		"unique_voters": 193,
-		"matching_per_voter": 20.6711917098,
+		"avg_matching_per_voter": 20.6711917098,
+		"passing_voters": 163,
+		"percent_passing": 84.4559585492,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/21"
 	},
 	{
@@ -172,7 +214,9 @@
 		"matching_funds": 3806.82,
 		"crowdfunding": 339.05,
 		"unique_voters": 114,
-		"matching_per_voter": 33.3931578947,
+		"avg_matching_per_voter": 33.3931578947,
+		"passing_voters": 99,
+		"percent_passing": 86.8421052632,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/53"
 	},
 	{
@@ -180,7 +224,9 @@
 		"matching_funds": 3742.12,
 		"crowdfunding": 1747.32,
 		"unique_voters": 198,
-		"matching_per_voter": 18.8995959596,
+		"avg_matching_per_voter": 18.8995959596,
+		"passing_voters": 154,
+		"percent_passing": 77.7777777778,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/51"
 	},
 	{
@@ -188,7 +234,9 @@
 		"matching_funds": 3335.52,
 		"crowdfunding": 343.24,
 		"unique_voters": 58,
-		"matching_per_voter": 57.5089655172,
+		"avg_matching_per_voter": 57.5089655172,
+		"passing_voters": 42,
+		"percent_passing": 72.4137931034,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/35"
 	},
 	{
@@ -196,7 +244,9 @@
 		"matching_funds": 3249.4,
 		"crowdfunding": 344.29,
 		"unique_voters": 90,
-		"matching_per_voter": 36.1044444444,
+		"avg_matching_per_voter": 36.1044444444,
+		"passing_voters": 74,
+		"percent_passing": 82.2222222222,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/47"
 	},
 	{
@@ -204,7 +254,9 @@
 		"matching_funds": 3236.12,
 		"crowdfunding": 1474.22,
 		"unique_voters": 180,
-		"matching_per_voter": 17.9784444444,
+		"avg_matching_per_voter": 17.9784444444,
+		"passing_voters": 150,
+		"percent_passing": 83.3333333333,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/45"
 	},
 	{
@@ -212,7 +264,9 @@
 		"matching_funds": 3127.52,
 		"crowdfunding": 217.9,
 		"unique_voters": 86,
-		"matching_per_voter": 36.3665116279,
+		"avg_matching_per_voter": 36.3665116279,
+		"passing_voters": 72,
+		"percent_passing": 83.7209302326,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/31"
 	},
 	{
@@ -220,7 +274,9 @@
 		"matching_funds": 2781.47,
 		"crowdfunding": 234.66,
 		"unique_voters": 73,
-		"matching_per_voter": 38.1023287671,
+		"avg_matching_per_voter": 38.1023287671,
+		"passing_voters": 63,
+		"percent_passing": 86.301369863,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/60"
 	},
 	{
@@ -228,7 +284,9 @@
 		"matching_funds": 2762.68,
 		"crowdfunding": 180.89,
 		"unique_voters": 53,
-		"matching_per_voter": 52.1260377358,
+		"avg_matching_per_voter": 52.1260377358,
+		"passing_voters": 45,
+		"percent_passing": 84.9056603774,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/23"
 	},
 	{
@@ -236,7 +294,9 @@
 		"matching_funds": 2662.73,
 		"crowdfunding": 474.07,
 		"unique_voters": 139,
-		"matching_per_voter": 19.1563309353,
+		"avg_matching_per_voter": 19.1563309353,
+		"passing_voters": 112,
+		"percent_passing": 80.5755395683,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/11"
 	},
 	{
@@ -244,7 +304,9 @@
 		"matching_funds": 2548.71,
 		"crowdfunding": 269.83,
 		"unique_voters": 61,
-		"matching_per_voter": 41.7821311475,
+		"avg_matching_per_voter": 41.7821311475,
+		"passing_voters": 54,
+		"percent_passing": 88.5245901639,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/26"
 	},
 	{
@@ -252,7 +314,9 @@
 		"matching_funds": 2335.93,
 		"crowdfunding": 584.5,
 		"unique_voters": 91,
-		"matching_per_voter": 25.6695604396,
+		"avg_matching_per_voter": 25.6695604396,
+		"passing_voters": 78,
+		"percent_passing": 85.7142857143,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/48"
 	},
 	{
@@ -260,7 +324,9 @@
 		"matching_funds": 2113.79,
 		"crowdfunding": 143.89,
 		"unique_voters": 83,
-		"matching_per_voter": 25.4673493976,
+		"avg_matching_per_voter": 25.4673493976,
+		"passing_voters": 62,
+		"percent_passing": 74.6987951807,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/44"
 	},
 	{
@@ -268,7 +334,9 @@
 		"matching_funds": 1794.76,
 		"crowdfunding": 150.99,
 		"unique_voters": 58,
-		"matching_per_voter": 30.944137931,
+		"avg_matching_per_voter": 30.944137931,
+		"passing_voters": 49,
+		"percent_passing": 84.4827586207,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/55"
 	},
 	{
@@ -276,7 +344,9 @@
 		"matching_funds": 1755.97,
 		"crowdfunding": 107.58,
 		"unique_voters": 63,
-		"matching_per_voter": 27.8725396825,
+		"avg_matching_per_voter": 27.8725396825,
+		"passing_voters": 54,
+		"percent_passing": 85.7142857143,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/7"
 	},
 	{
@@ -284,7 +354,9 @@
 		"matching_funds": 1654.91,
 		"crowdfunding": 143.0,
 		"unique_voters": 69,
-		"matching_per_voter": 23.9842028986,
+		"avg_matching_per_voter": 23.9842028986,
+		"passing_voters": 59,
+		"percent_passing": 85.5072463768,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/57"
 	},
 	{
@@ -292,7 +364,9 @@
 		"matching_funds": 1597.98,
 		"crowdfunding": 131.04,
 		"unique_voters": 55,
-		"matching_per_voter": 29.0541818182,
+		"avg_matching_per_voter": 29.0541818182,
+		"passing_voters": 47,
+		"percent_passing": 85.4545454545,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/54"
 	},
 	{
@@ -300,7 +374,9 @@
 		"matching_funds": 1520.4,
 		"crowdfunding": 231.37,
 		"unique_voters": 50,
-		"matching_per_voter": 30.408,
+		"avg_matching_per_voter": 30.408,
+		"passing_voters": 35,
+		"percent_passing": 70.0,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/5"
 	},
 	{
@@ -308,7 +384,9 @@
 		"matching_funds": 1481.75,
 		"crowdfunding": 146.83,
 		"unique_voters": 75,
-		"matching_per_voter": 19.7566666667,
+		"avg_matching_per_voter": 19.7566666667,
+		"passing_voters": 60,
+		"percent_passing": 80.0,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/28"
 	},
 	{
@@ -316,7 +394,9 @@
 		"matching_funds": 1208.57,
 		"crowdfunding": 136.81,
 		"unique_voters": 64,
-		"matching_per_voter": 18.88390625,
+		"avg_matching_per_voter": 18.88390625,
+		"passing_voters": 52,
+		"percent_passing": 81.25,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/1"
 	},
 	{
@@ -324,7 +404,9 @@
 		"matching_funds": 1105.5,
 		"crowdfunding": 83.88,
 		"unique_voters": 54,
-		"matching_per_voter": 20.4722222222,
+		"avg_matching_per_voter": 20.4722222222,
+		"passing_voters": 45,
+		"percent_passing": 83.3333333333,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/49"
 	},
 	{
@@ -332,7 +414,9 @@
 		"matching_funds": 836.68,
 		"crowdfunding": 72.58,
 		"unique_voters": 61,
-		"matching_per_voter": 13.7160655738,
+		"avg_matching_per_voter": 13.7160655738,
+		"passing_voters": 51,
+		"percent_passing": 83.606557377,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/10"
 	},
 	{
@@ -340,7 +424,9 @@
 		"matching_funds": 800.32,
 		"crowdfunding": 94.56,
 		"unique_voters": 58,
-		"matching_per_voter": 13.7986206897,
+		"avg_matching_per_voter": 13.7986206897,
+		"passing_voters": 47,
+		"percent_passing": 81.0344827586,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/32"
 	},
 	{
@@ -348,7 +434,9 @@
 		"matching_funds": 790.87,
 		"crowdfunding": 146.73,
 		"unique_voters": 50,
-		"matching_per_voter": 15.8174,
+		"avg_matching_per_voter": 15.8174,
+		"passing_voters": 42,
+		"percent_passing": 84.0,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/62"
 	},
 	{
@@ -356,7 +444,9 @@
 		"matching_funds": 730.64,
 		"crowdfunding": 46.46,
 		"unique_voters": 34,
-		"matching_per_voter": 21.4894117647,
+		"avg_matching_per_voter": 21.4894117647,
+		"passing_voters": 32,
+		"percent_passing": 94.1176470588,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/64"
 	},
 	{
@@ -364,7 +454,9 @@
 		"matching_funds": 626.45,
 		"crowdfunding": 52.53,
 		"unique_voters": 48,
-		"matching_per_voter": 13.0510416667,
+		"avg_matching_per_voter": 13.0510416667,
+		"passing_voters": 38,
+		"percent_passing": 79.1666666667,
 		"project_page": "https://explorer.gitcoin.co/#/round/42161/27/6"
 	}
 ]
