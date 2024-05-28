@@ -40,12 +40,18 @@ const items = computed<Item[]>(() => {
 <template>
 	<div class="mx-auto max-w-[1100px]">
 		<!-- Statistic -->
-		<div class="p-5">
+		<div class="p-2">
 			<div class="flex justify-center text-center">
 				<n-statistic label="Total donations">
 					{{ items.length }}
 				</n-statistic>
 			</div>
+		</div>
+
+		<div class="pb-5">
+			<a href="/scatter.png" target="_blank">
+				<img src="/scatter.png" alt="scatter" />
+			</a>
 		</div>
 
 		<EasyDataTable
